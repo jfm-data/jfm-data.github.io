@@ -3,7 +3,7 @@ layout: page
 title:  "Bitcoin Thoughts Pt.1"
 subtitle: "Pomp & Pump"
 date:   20-04-23 21:21:21 +0530
-categories: ["Tech"]
+categories: tech
 ---
 
 To be transparent, I don’t own any Bitcoin, I've never owned any, and I am way past the point of ever consider buying Bitcoin. Neither am I an expert in crypto/blockchain technology, so feel free to label me a Bitcoin hater that doesn't "get it". But if that is your attitude, have an open mind while reading.
