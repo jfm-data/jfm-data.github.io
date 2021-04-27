@@ -5,6 +5,9 @@
     font-size: 100%;
     color: #012;
     background-color: #FFF; }
+  
+header {
+    background-color: red;}
 
   a {
     color: #57A;
