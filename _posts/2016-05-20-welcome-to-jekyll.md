@@ -1,26 +1,12 @@
 ---
 layout: page
-title:  "Why I Blog"
+title:  "why I blog"
 subtitle: "I may regret this..."
-date:   2020-07-20 21:21:21 +0530
+date:   2021-04-24 21:21:21 +0530
 categories: ["general"]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hello, welcome to my personal blog, version 2.0. I have migrated my first version from a personal website that I am leaving derelict. The frustration of using WordPress and my dissatisfaction with BlueHost had left me unmotivated to post with any type of regularity. It seemed there was a 1:1 ratio between writing time and backend configuration to publish it properly. It wasn't worth it. But now that I am using my GitHub pages, I can write a post in a markdown file with little website admin time while still having a lot of control. The ease and freedom has renewed my interest in blogging.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I am going to try to post as much as possible. My current goal is to spend an hour a day writing. I find it helps improve my clarity of thinking and it will surely strengthen some skills I was told I lacked. I will write about a wide range of topics -- really anything that grabs my interest. I will touch on political issues at my personal peril. I am a data-driven critical-thinker that does not acquiesce to trendy narratives, so most potential employers might not like what I have to say when I wade into those waters. You may call this potential professional Darwinism, but I want to be authentic for those who might actually enjoy it. If you have an issue with the things I write, please get in touch as I am reachable.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight python %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+JM
