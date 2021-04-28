@@ -22,9 +22,10 @@
         7. Education Styles
         8. Project Styles
         9. Skills Styles
-        10. Contact Styles
-        11. Optional Section Styles
-        12. Media Queries
+        10. Blog
+        11. Contact Styles
+        12. Optional Section Styles
+        13. Media Queries
 */
 
 /*
@@ -732,9 +733,11 @@ footer {
 #blog {
     padding: 75px 15px;
     border-bottom: 1px solid $border;
+    text-align: center;
 
     h2 {
         color: $heading;
+        margin-bottom: 50px
     }
 
     p {
@@ -745,7 +748,7 @@ footer {
 
 /*
     -------------------------------
-    ----- 10. Contact Styles -----
+    ----- 11. Contact Styles -----
     -------------------------------
 */
 
@@ -810,7 +813,7 @@ footer {
 
 /*
     ---------------------------------------
-    ----- 11. Optional Section Styles -----
+    ----- 12. Optional Section Styles -----
     ---------------------------------------
 */
 
@@ -858,7 +861,7 @@ footer {
 
 /*
     -----------------------------
-    ----- 12. Media Queries -----
+    ----- 13. Media Queries -----
     -----------------------------
 */
 
