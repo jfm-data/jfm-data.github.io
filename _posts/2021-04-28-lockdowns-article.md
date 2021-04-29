@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "The Sins Of Our Lockdowns"
-subtitle: "Why Are Goverments Using Failed Policies?"
+title:  "The Sins Of Lockdowns"
+subtitle: "Repeating Fail Policy"
 date:   2021-04-28 21:21:21 +0530
 categories: general
 ---
