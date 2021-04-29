@@ -7,8 +7,7 @@ categories: politics
 ---
 
 The Nova Scotia government decided to lockdown its citizens on Tuesday. To me, this was inexplicable and frustrating news that should have warranted public backlash. With fourteen months since the initial stay-at-home order, politicians should be acting on the knowledge and data collected from the first two go-arounds. Despite them being lauded by the media (geez, I wonder why they would want us to stay home all day?), there is weak evidence to support lockdowns as an effective public health policy. There is data that reveals they only temporarily delay the spread of COVID-19 while generating a host of new problems that will linger for months/years beyond these 'temporary' dates.  Take the following chart that splits the relative number of COVID deaths in European countries during the first and second waves. The asymmetry of the chart is striking; and the media headlines praising the success of first-wave lockdowns, premature and embarrassing. These lockdowns didn't prevent these deaths, only delayed them at a greater expense.
-
-\ 
+\
 
 <p align="center">
   <img align="center" src="https://jfm-data.github.io/assets/img/second_wave.png">
