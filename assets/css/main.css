@@ -9,13 +9,6 @@
 
 header {
     position: relative;
-    height: 20vh;
-    width: 2000px;
-    min-height: 25px;
-    max-height: 250px;
-    background: #ededed;
-    background-size: cover;
-    padding: 5px;
     border-bottom: 1px solid #dcd9d9;
     overflow: hidden;
 }
