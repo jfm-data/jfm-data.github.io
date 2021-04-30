@@ -10,11 +10,11 @@
 header {
     position: relative;
     height: 100vh;
-    min-height: 500px;
+    min-height: 50px;
     max-height: 1080px;
     background: #ededed;
     background-size: cover;
-    padding: 15px;
+    padding: 5px;
     overflow: hidden;
 }
   a {
