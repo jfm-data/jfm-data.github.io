@@ -9,7 +9,7 @@
 
 header {
     position: relative;
-    height: 100vh;
+    height: 50vh;
     min-height: 50px;
     max-height: 250px;
     background: #ededed;
