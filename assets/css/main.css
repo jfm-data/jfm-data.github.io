@@ -6,7 +6,6 @@
     font-size: 100%;
     color: #012;
     background-color: #FFF; }
-$border: #dcd9d9;  
 
 header {
     position: relative;
@@ -17,7 +16,7 @@ header {
     background: #ededed;
     background-size: cover;
     padding: 5px;
-    border-bottom: 1px solid $border;
+    border-bottom: 1px solid #dcd9d9;
     overflow: hidden;
 }
   a {
