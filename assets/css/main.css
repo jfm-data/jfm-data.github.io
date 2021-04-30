@@ -13,7 +13,7 @@ header {
     min-height: 50px;
     max-height: 1080px;
     background: #ededed;
-    background-size: cover;
+    background-size: auto;
     padding: 5px;
     overflow: hidden;
 }
