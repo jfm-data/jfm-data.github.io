@@ -107,6 +107,10 @@ header {
     font-weight: 400;
     font-size: 75%;
     color: #828282; }
+  .page-title__date {
+    font-weight: 300;
+    font-size: 40%;
+    color: 828282;}
 
 /* =Post teasers *//*************************************************************/
   .list-posts {
