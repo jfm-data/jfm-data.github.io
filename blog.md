@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-subtitle: Select ramblings of J.F. McInnis
+title: all posts
+subtitle: Some select shared thoughts
 ---
 
 <div>
