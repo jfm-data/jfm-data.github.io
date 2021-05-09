@@ -3,7 +3,7 @@ layout: page
 title:  "new blog. who dis?"
 subtitle: "I am trying this again"
 date:   2021-04-24 21:21:21 +0530
-theme: dark
+theme: cayman
 categories: ["general"]
 ---
 Hello, welcome to my personal blog -- version 2.0. I am migrating my thoughts from a personal website that I am leaving derelict. The frustration from using WordPress and my dissatisfaction with BlueHost had left me unmotivated to post with any type of regularity. It seemed there was a 1:1 ratio between time spent writing and backend configuration to publish it properly. It didn't seem worth it. But now that I am using my GitHub pages, I can write a post in a markdown file with little admin time while still having control. The ease and freedom has renewed my interest in blogging.
