@@ -7,23 +7,21 @@
     color: #012;
     background-color: #FFF; }
   
-  header.header {
-    color:#FFF;
-    background-color: #EEE;
-    background-image: url(/images/lighthouse_2.jpg);
-    background-position: right 25% bottom 75%;
-    background-size: cover;
-  }
+
 
   header {
       position: relative;
       border-bottom: 1px solid #dcd9d9;
       overflow: hidden;
+
   }
+
+    
+  
   a {
-    color: #57A;
+    color: rgb(75, 102, 175);
     font-weight: bold;
-    text-decoration: none; }
+    text-decoration: none;}
 
   p, ul, ol, dl {
     font-size: 100%;
@@ -64,22 +62,29 @@
 
 /* =Header *//*************************************************************/
   .header {
-    overflow: hidden; }
+    color:#FFF;
+    background-color: #eeeeee;
+    background-image: url(/images/lighthouse_2.jpg);
+    background-position: right 25% bottom 75%;
+    background-size: cover;}
 
   .navigation {
-    float: left; }
+    float: left;
+    max-width: 900px;
+    margin: 30px auto;}
+ 
 
   .logo {
     font-size: 300%;
     font-weight: 700;
-    color: #191970;
+    color: rgb(245, 243, 243);
     display: block; }
 
   .menu {
     color: #828282;
     font-size: 150%;
     margin: 0px;
-    margin-top: 6px;
+    margin-top: 15px;
     padding: 0px;
     list-style-type: none; }
 
@@ -90,7 +95,8 @@
       margin-right: 0px; }
 
   .menu__entry a {
-    font-weight: 400; }
+    font-weight: 400;
+    color:rgb(226, 226, 226)}
 
   .social-links {
     float: right;
@@ -308,13 +314,6 @@
 
   a {
       background-color: transparent;
-  }
-
-
-  a:-webkit-any-link {
-      color: -webkit-link;
-      cursor: pointer;
-      text-decoration: underline;
   }
 
   .social li {
