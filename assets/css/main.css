@@ -6,12 +6,20 @@
     font-size: 100%;
     color: #012;
     background-color: #FFF; }
+  
+  header.header {
+    color:#FFF;
+    background-color: #EEE;
+    background-image: url(/images/lighthouse_2.jpg);
+    background-position: right 25% bottom 75%;
+    background-size: cover;
+  }
 
-header {
-    position: relative;
-    border-bottom: 1px solid #dcd9d9;
-    overflow: hidden;
-}
+  header {
+      position: relative;
+      border-bottom: 1px solid #dcd9d9;
+      overflow: hidden;
+  }
   a {
     color: #57A;
     font-weight: bold;
@@ -107,6 +115,11 @@ header {
     font-weight: 400;
     font-size: 75%;
     color: #828282; }
+  .page-title__date {
+    font-weight: 300;
+    font-size: 40%;
+    color: #828282;
+  }
 
 /* =Post teasers *//*************************************************************/
   .list-posts {
@@ -238,6 +251,7 @@ header {
   }
   .container {
       width: 750px;
+      text-align: center;
   }
   .container {
       margin-right: auto;
@@ -251,7 +265,7 @@ header {
   .copyright {
       padding-top: 20px;
   }
-  @media (min-width: 768px)
+
 
   .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
       float: left;
@@ -296,12 +310,7 @@ header {
       background-color: transparent;
   }
 
-  * {
-      -webkit-box-sizing: border-box;
-      -moz-box-sizing: border-box;
-      /* box-sizing: border-box; */
-  }
-  user agent stylesheet
+
   a:-webkit-any-link {
       color: -webkit-link;
       cursor: pointer;
