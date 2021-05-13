@@ -221,7 +221,7 @@
     .navigation,
     .social-links {
       display: block;
-      text-align: center;
+      text-align: left;
       width: 100%; }
 
     .social-links {
@@ -241,7 +241,7 @@
     .post-teaser__title {
       font-size: 150%;
       display: block;
-      text-align: left;
+      text-align: center;
       width: 100%; }
 
     .post-teaser__date {
