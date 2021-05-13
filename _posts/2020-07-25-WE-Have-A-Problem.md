@@ -2,7 +2,7 @@
 layout: page
 title: "WE Have A Problem"
 subtitle: "Trudeau's WE Deal Exposed Corruption and Incompetence in the PMO"
-date:   2021-07-25 21:21:21 +0530
+date:   2020-07-25 21:21:21 +0530
 categories: politics
 
 ---
