@@ -161,7 +161,9 @@
   .about {
     color: #828282;
     text-align: center;
-    line-height: 24px; }
+    line-height: 24px;
+    border-top: #03192f;
+    border-top-style: double; }
 
   .about__devider {
     font-size: 100%;
