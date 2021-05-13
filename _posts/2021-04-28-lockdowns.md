@@ -19,6 +19,7 @@ The NS government should have also focused on evaluating the success and failure
 
 <p align="center">
   <img align="center" src="https://jfm-data.github.io/assets/img/fla_cali_covid.jpg">
+  <img align="center" src="https://jfm-data.github.io/assets/img/US_states_covid.jpg">
 </p>    
 
 So let's jump to the problems they are creating: so far I have seen at least a dozen local businesses shutter under these lockdowns (and there are likely hundreds on the brink of financial ruin). These are businesses that took a lifetime to build and provide livelihoods to thousands of Nova Scotians. "JuSt bAil ThEm OuT!" is not a viable short or long-term solution. Doing so is just re-arranging deck chairs on the Titanic as it is a de facto taxpayer-funded subsidy to the large corporations (like Amazon, Walmart, Costco) that are permitted to serve the public's needs. Not to mention that these lockdowns are creating a widening economic disparity between the working class and the white-collar professionals working from home. Those WFH'ing are not only saving thousands but they are growing their windfalls through real estate, equities, and crypto market investments (all of which are ripping). The lockdown class in Canada loves this and are cheerleading these destructive policies while believing "we are in this together". Meanwhile, these lockdowns are financially crippling workers in the service and hospitality industries which will remain wounded and playing catch-up for years.  
