@@ -3,7 +3,7 @@ layout: page
 title: "Big Data; Small Thinking"
 subtitle: "Even Small Data Projects Fail"
 date:   2021-04-20 21:21:21 +0530
-categories: tech
+categories: data
 author: "Capt. Sisko Simpson"
 
 ---
