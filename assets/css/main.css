@@ -71,7 +71,8 @@
   .navigation {
     float: left;
     max-width: 900px;
-    margin: 30px auto;}
+    margin: 30px auto;
+    margiin-left: 30px;}
  
 
   .logo {
@@ -240,7 +241,7 @@
     .post-teaser__title {
       font-size: 150%;
       display: block;
-      text-align: center;
+      text-align: left;
       width: 100%; }
 
     .post-teaser__date {
