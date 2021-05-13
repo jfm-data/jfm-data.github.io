@@ -1,3 +1,11 @@
+---
+layout: page
+title: "WE Have A Problem"
+subtitle: "Trudeau's WE Deal Exposed Corruption and Incompetence in the PMO"
+date:   2021-07-25 21:21:21 +0530
+categories: politics
+
+---
 Today the Globe & Mail reported corporate sponsors are abandoning WE.  Since Justin Trudeau's non-competitive $912M contract was handed to the WE Foundation,
 the organization's figurative foundation is cracking under the stress of daily damaging reports. This is terrible news for Liberals as it signals the death knell
 of WE's image as a reputable charity, thus further worsening the optics of the WE contract. The fact that corporate partners are dropping a toxic partner should 
