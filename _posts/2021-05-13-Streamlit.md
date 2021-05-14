@@ -38,4 +38,4 @@ screen capture below. However, it does go to sleep if it goes unused for a week 
 
 
 \
-![Screen Grab](https://github.com/jfm-data/jfm-data.github.io/master/assets/img/nhl_wager_team.png "My First project")
+![Screen Grab](https://jfm-data.github.io/assets/img/nhl_wager_team.png "My First project")
