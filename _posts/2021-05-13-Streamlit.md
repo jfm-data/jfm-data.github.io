@@ -31,7 +31,11 @@ As mentioned above, they recently raised their Series B, so they are well-capita
 connect the platform to a GitHub repo that has your python file and data. 
 
 The first project I shared was an NHL Team wager application for exploring scenario-based betting analytics based on selected criteria. It updates 
-daily and requires some processing, but the app is responsive and dynamic. The design is a little tricky, but the library includes enough tools for
+daily and requires some data processing between selections, but the app is responsive and dynamic as you can cache data. The web design is a little tricky, but the library includes enough tools for
 essential features and aesthetics. What's awesome is that they allow you to go outside of their standard designs to nest HTML and CSS into one of the subclasses.
-Having brushed up on my HTML recently, I am was able to add a few customizations without much shoehorning.  Feel free to check it out, I have dropped a sample
-screen capture below. However, if it's not used in a week the app goes to sleep.
+Having brushed up on my HTML recently, I am was able to add a few customizations without much fuss.  Feel free to check it out, I have dropped a sample
+screen capture below. However, it does go to sleep if it goes unused for a week and the off-season is approaching.
+
+
+\
+![Screen Grab](https://github.com/jfm-data/jfm-data.github.io/assets/img/nhl_wagers_team.png "My First project")
