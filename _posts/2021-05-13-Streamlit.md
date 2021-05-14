@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "I 💓 Streamlit"
+title: "I ❤️ Streamlit"
 subtitle: ""
 date:   2021-05-13 21:21:21 +0530
 categories: data
