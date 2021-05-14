@@ -17,10 +17,10 @@ I first started using Streamlit in fall 2020 when someone in my cohort mentioned
 I was knocked over by how so little code was required to create a kickass app. Once installed you can run their demo from the 
 command line that lets the user analyze NYC Uber Ridesharing data. If you can believe it, this took less than 120 lines of code to deploy.
 
-'''
+```sh
 pip install --upgrade streamlit
 streamlit run https://raw.githubusercontent.com/streamlit/demo-uber-nyc-pickups/master/streamlit_app.py
-'''
+```
 
 
 ![Final App Animation](https://github.com/streamlit/streamlit/raw/develop/docs/_static/img/uber_horiz.gif "Final App Animation")
