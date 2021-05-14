@@ -21,7 +21,9 @@ command line that lets the user analyze NYC Uber Ridesharing data. If you can be
 pip install --upgrade streamlit
 streamlit run https://raw.githubusercontent.com/streamlit/demo-uber-nyc-pickups/master/streamlit_app.py
 '''
-[Final App Animation](https://github.com/streamlit/streamlit/raw/develop/docs/_static/img/uber_horiz.gif "Final App Animation")
+
+
+![Final App Animation](https://github.com/streamlit/streamlit/raw/develop/docs/_static/img/uber_horiz.gif "Final App Animation")
 
 You can run the app locally, but you have several options to launch on the web if required. I initially tried hosting on Heroku, but 
 the much easier route is to use the Streamlit Sharing platform. It's currently in the Beta phase; my access request took only a few weeks to grant.
