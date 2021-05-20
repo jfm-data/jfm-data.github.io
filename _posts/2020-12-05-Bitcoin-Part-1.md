@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Bitcoin: The Pumping Pomp"
-subtitle: ""
+subtitle: "The Grifting Influencer of 2020"
 date:   20-12-05 21:21:21 +0530
 categories: tech
 ---
