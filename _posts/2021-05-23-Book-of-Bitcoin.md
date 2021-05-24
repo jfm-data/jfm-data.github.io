@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Book of Bitcoin"
-subtitle: "How to Join the World's Fastest Growning Religion"
+subtitle: "How to Join the World's Fastest Growing Religion"
 date:   2021-05-24 21:21:21 +0530
 categories: tech
 ---
