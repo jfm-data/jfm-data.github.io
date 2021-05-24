@@ -20,11 +20,11 @@ Secondly, you may only buy BTC and must __NEVER__ sell BTC. Never selling is a v
 Even on your financial death bed, one must abide by the solemn act of HODLing, as helping restrict the supply of BTC is the most righteous offering a follower can make to the BTC/USD God.  
 
 Thirdly, the religion does involve theology. A HODLer must be well-versed in all the main talking points:
--  BTC is a revolutionary one-of-a-kind technology (_only used when counterparty knows absolutely nothing about crypto or technology) 
-- ~~It's a digital currency for peer-to-peer transactions~~ (err, it's been 12 years and still no one uses it as currency, so maybe not)  
-- It's a store of value that is protected from the FED's inflation! (_just don't show them any chart or r2-value that reveals zero relationship between inflation and BTC price)
+-  BTC is a revolutionary one-of-a-kind technology (_only used when counterparty knows absolutely nothing about crypto or technology_) 
+- ~~It's a digital currency for peer-to-peer transactions~~ (_err, it's been 12 years and still no one uses it as currency, so maybe not_)  
+- It's a store of value that is protected from the FED's inflation! (_just don't show them any chart or r2-value that reveals zero relationship between inflation and BTC price_)
 - It can't be manipulated! (_this talking point becomes temporary invalid when a "dip" happens and we need to scapegoat a Whale selling). 
-- It's the Apex predator of the financial markets (_just like MySpace is the apex predator of social networks).
+- It's the Apex predator of the financial markets (_just like MySpace is the apex predator of social networks_).
 You must also study the language of HODLers. HFSP, FUD, BTFD, REKT, Rug pull, are necessary terms to understand. They help identify other members of the faith on ~~echo chambers~~ meassageboards, and are very useful when it's time to ratchet up the FOMO on the pagans. These terms also also handy when thrash pagans who are tempted by shitcoins.
 
 Finally, since the BTC/USD God requires new members for it to grow stronger, there is an ordinance of evangelism. Twitter is preferred mediumn for missionary work, 
