@@ -24,6 +24,7 @@
     text-decoration: none;}
 
   p, ul, ol, dl {
+    font-family: "PT Sans Caption", PT Sans Caption;
     font-size: 100%;
     line-height: 32px; }
 
