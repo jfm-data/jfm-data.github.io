@@ -11,9 +11,9 @@ want to be associated with a bunch of zealots who strongly believe in an abstrac
 - You have the sacred text: the Satoshi white paper
 - The idolatry: BTC/USD
 - The sacraments: Laser eyes on avi; diamond hands, 
-- The parables :the betrayal of ~~Judas~~ Elon
--  holy days of observance: Bitcoin Pizza Day 
--  The preaching clergy spreading the gospel: Saylor, Pomp, Wood, to name a few
+- The parables: The betrayal of ~~Judas~~ Elon
+-  Holy days of observance: Bitcoin Pizza Day 
+-  The preaching clergy spreading the gospel: Saylor, Pomp, Wood, to name a few.
 
 These high priests evangelize to the unconverted how a devout commitment to Bitcoin is the only true salvation from the evils of "The Fed".  
 They are the torchbearers who shed light on how a asserted digital gold is superior to real gold (or anyother store of value) due to its ~~artificial~~ divine scarcity.  
@@ -29,7 +29,7 @@ Thirdly, the religion does involve theology. A HODLer must be well-versed in all
 -  __BTC is a revolutionary one-of-a-kind technology__ (_only used when counterparty knows absolutely nothing about crypto or technology_) 
 - __~~It's a digital currency for peer-to-peer transactions~~__ (_err, it's been 12 years and still no one uses it as currency, so maybe not_)  
 - __It's a store of value that is protected from the FED's inflation!__ (_just don't show them any chart or r2-value that reveals zero relationship between inflation and BTC price_)
-- __It can't be manipulated!__ (_this talking point becomes temporary invalid when a "dip" happens and we need to scapegoat a Whale selling). 
+- __It can't be manipulated!__ (_this talking point becomes temporary invalid when a "dip" happens and we need to scapegoat a Whale selling_). 
 - __It's the Apex predator of the financial markets!__ (_just like MySpace is the apex predator of social networks_).
 You must also study the language of HODLers. HFSP, FUD, BTFD, REKT, Rug pull, are necessary terms to understand. They help identify other members of the faith on ~~echo chambers~~ meassageboards, and are very useful when it's time to ratchet up the FOMO on the pagans. These terms also also handy when thrash pagans who are tempted by shitcoins.
 
