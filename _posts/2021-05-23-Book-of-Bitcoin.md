@@ -8,15 +8,14 @@ categories: tech
 
 Apologies to the religious folk insulted by my characterization that Bitcoin is a religion -- I understand why you wouldn't
 want to be associated with a bunch of zealots who strongly believe in an abstract story with poorly documented origins. Nevertheless, the similarities are just too hard to ignore. 
-- You have the sacred text: the Satoshi white paper
-- The idolatry: BTC/USD
-- The sacraments: Laser eyes on avi; diamond hands, 
-- The parables: The betrayal of ~~Judas~~ Elon
--  Holy days of observance: Bitcoin Pizza Day 
--  The preaching clergy spreading the gospel: Saylor, Pomp, Wood, to name a few.
+- __There is the sacred text:__ the Satoshi white paper
+- __The idolatry:__ BTC/USD
+- __The sacraments:__ Laser eyes on avi; diamond hands, 
+- __The parables:__ The betrayal of ~~Judas~~ Elon
+-  __Holy days of observance:__ Bitcoin Pizza Day 
+-  __The preaching clergy spreading the gospel:__ Saylor, Pomp, Wood, to name a few.
 
-These high priests evangelize to the unconverted how a devout commitment to Bitcoin is the only true salvation from the evils of "The Fed".  
-They are the torchbearers who shed light on how a asserted digital gold is superior to real gold (or anyother store of value) due to its ~~artificial~~ divine scarcity.  
+These high priests evangelize to the unconverted how a devout commitment to Bitcoin is the only true salvation from the evils of "The Fed". They are the torchbearers who shed light on how the asserted digital gold is superior to real gold (or anyother store of value) due to its ~~artificial~~ divine scarcity.  
 
 To join the ~~cult~~ religion is not as simple as buying BTC on Coinbase. One must follow the strict dogma to be considered a member of the faith.
 The first rule is to recognize and accept Bitcoin as a monotheistic religion.
