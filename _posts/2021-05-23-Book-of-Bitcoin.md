@@ -15,7 +15,7 @@ want to be associated with a bunch of zealots who strongly believe in an abstrac
 - __Holy days of observance:__ Bitcoin Pizza Day 
 - __Preaching clergymen spreading the gospel:__ Saylor, Pomp, Wood, just to name a few.
 
-These high priests evangelize to the unconverted how a devout commitment to Bitcoin is the only true salvation from the evils of "The Fed". They are the torchbearers who shed light on how the asserted digital gold is superior to real world goods due to its ~~artificial~~ divine scarcity.  
+The clergy are crucial given their reach of influence. These high priests are invited on dying mediums to enlighten the pagans on how a devout commitment to Bitcoin is the only true salvation from the evils of "The Fed". They will also teach that BTC is digital gold more valuable than all real-world goods because of its ~~artificial~~ divine scarcity.
 
 To join the Bitcoin religion is not as simple as buying BTC on Coinbase. One must follow the strict dogma to be considered a member of the faith.
 The first rule is to recognize and accept Bitcoin as a monotheistic religion.
