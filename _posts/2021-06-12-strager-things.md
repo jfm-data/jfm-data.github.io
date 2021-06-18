@@ -1,8 +1,12 @@
-title: Strang~~er~~ Things
-date: June 12, 2021
-subtitle: Dr. Despot
 
-------
+---
+layout: page
+title: Strang~~er~~ Things
+subtitle: "Dr. Despot"
+date:   2021-06-12 21:21:21 +0530
+categories: politics
+
+---
 
 It is well past time that we say goodbye to Dr. Strang and his anxious, authoritarian, and counteractive public health policies.
 The heavy-handedness of Strang's COVID restrictions should have forced a resignation months ago, yet with the media's proclivity for
