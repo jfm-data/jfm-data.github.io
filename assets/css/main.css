@@ -82,7 +82,8 @@
     font-size: 300%;
     font-weight: 700;
     color: rgb(245, 243, 243);
-    display: block; }
+    display: block; 
+    margin: 60px;}
 
   .menu {
     color: #828282;
@@ -119,16 +120,19 @@
 
   .page-title__text {
     font-weight: 700;
-    font-size: 150%; }
+    font-size: 150%;
+    font-family: 'Merriweather', serif;}
 
   .page-title__subtitle {
     font-weight: 400;
     font-size: 75%;
-    color: #828282; }
+    color: #828282; 
+    font-family: 'Merriweather', serif;}
   .page-title__date {
     font-weight: 300;
     font-size: 40%;
     color: #828282;
+    font-family: 'Merriweather', serif;
   }
 
 /* =Post teasers *//*************************************************************/
