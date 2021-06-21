@@ -68,7 +68,7 @@
     background-image: url(/images/lighthouse_2.jpg);
     background-position: right 25% top -10%;
     background-size: cover;
-    height}
+    height: 200px;}
 
   .navigation {
     float: left;
@@ -79,7 +79,6 @@
 
   .logo {
     font-family: 'Merriweather', serif;  
-    background-color: #FFF; 
     font-size: 300%;
     font-weight: 700;
     color: rgb(245, 243, 243);
