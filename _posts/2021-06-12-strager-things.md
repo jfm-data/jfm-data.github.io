@@ -8,9 +8,9 @@ categories: politics
 ---
 
 It is well past time that we say goodbye to Dr. Strang and his anxious, authoritarian, and counteractive public health policies.
-The heavy-handedness of his "COVID-safe" restrictions in  a free and open society should have forced a resignation months ago, yet with the media's proclivity for
+The heavy-handedness of his "COVID-safe" restrictions in a free society should have forced a resignation months ago, yet with the media's proclivity for
 fetishizing the heads of public health bureaucracies, Dr. Strang has become a local deity above reproach. 
-It has gotten so absurd that any judgement of Strang that's not glowing, is treated as hate speech.   
+It has gotten so absurd that any judgement of Strang that's not glowing, is treated as hate speech that can cost you your job.   
 
 I have experienced this firsthand while trying to engage to the Redditors of r/Halifax by asking if the incoming Premier should consider replacing Dr. Strang. I listed gentle criticisms of Dr. Strang's policies with referenced material that refuted his cause for restrictions. I hoped to engage in civil debate, but sadly the mods never published the post (of course, without providing a reason). The censorship forced me move the dicussion to the daily COVID-19 numbers threads where my comments were met with ad hominem attacks and down votes. Most tried to label me as some alt-right crackpot but none actually tried to argue the substance of my comments. I received a few DMs from one clueless person who knew nothing of science, and another to tell me my responses were no longer showing up in the thread. Soon after that, I couldn't post anything -- I was shadowbanned.
   
