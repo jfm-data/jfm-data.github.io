@@ -23,10 +23,9 @@ Dr. Milburn shot down all their points with facts, reason, and logic -- yet ther
 Since his CBC Radio discussion, Dr. Milburn has been relentlessly attacked by Redditors, Facebookers, and social media trolls. It is hard to find any discourse about
 Dr. Milburn following his criticism of Dr. Strang, that is not trying to discredit him or call him an idiot.
 One Reddit user, I_AM_SQUID, posted a thread titled "Dr. Chris Milburn is an idiot". The thread was filled with personal insults and questioned his credentials 
-with no actual arguments against Dr. Milburn's points. The top comment in the thread, by user Unidan, stated that Dr. Milburn was a "f*%king idiot" and that he should "shut 
-the f*%k up".  In the following days, a petition was started to remove Dr. Milburn from his position as the head of the ER in the CBRM. 
+In the following days, a petition was started to remove Dr. Milburn from his position as the head of the ER in the CBRM. 
 The media has been complicit in this character assassination of Dr. Milburn. The CBC had buried Dr. Mliburn's criticisms while amplifying Dr. Strang's empty rebuttal on an hourly basis, which like his devoted defenders,
-did not address the science/data that Dr. Milburn referenced. 
+did not address the science and data that Dr. Milburn referenced. 
 
 
 Dr. Strang's policies are driven by as much scientific evidence as a tarot card reader. He needs to step down and allow a medical professional capable of assessing the social and economic costs while determining an appropriate level of data-driven restrictions. A simple fool could have come up with the lock-it-down strategy as it takes no nuance or courage to consider. The fact that there cannot be any public discourse of Strang's role or his decisions in this province ostensibly designates him the despot of Nova Scotia. It is reprehensible what the media and the masses have made of this man -- and his critics! -- I just hope they will wear the shame of his consequences when they are exposed.
