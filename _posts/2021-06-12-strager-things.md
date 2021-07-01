@@ -9,7 +9,7 @@ categories: politics
 
 It is well past time that we say goodbye to Dr. Strang and his aimless and vain public health policies.
 The heavy-handedness of his restrictions should have a free society demanding his resignation long ago, yet with the media's weakness for
-worshiping the heads of public health bureaucracies, Dr. Strang has become a local deity above reproach. His public image as saviour means that any
+worshiping the heads of public health bureaucracies, Dr. Strang is a local deity above reproach. His public image as saviour means that any
 negative judgement of the man or his policies is constitued as hate speech with consequences for the messenger.
 
 The pitchforks came for me when I tried to engage to the Redditors of r/Halifax over his (poor) performance as the "Top Doc". In a post, I asked the community whether the incoming Premier should consider replacing him for this overbearing policies that could be refuted with peer-reviewed science. I hoped to engage in civil debate, but sadly the mods never published the post (no reason given, mind you). The post censorship forced me move the dicussion to the daily COVID-19 case count threads where my comments were met with ad hominem attacks and down votes. They tried to label me as some alt-right crackpot but *none* attempted to argue on the substance of my comments. After a one-sided debate, I received a DM from a user to tell me my responses were no longer showing up in the thread... and not longer after that, I couldn't post anything at all-- I was shadowbanned by the mods.
