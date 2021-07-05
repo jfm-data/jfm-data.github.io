@@ -7,7 +7,7 @@ categories: business
 
 ---
 
-Today [the NYT released an artilce](https://www.nytimes.com/2021/07/04/sports/basketball/espn-rachel-nichols-maria-taylor.html) on ESPN's messy politics that had "Rachel Nichols" as top trending topic on Twitter. It was interesting to see the self-preceived 'ally' of social equality was being raked over the coals by the social media progressives. However, after reading the piece it seems the reaction on social media seems to have happened without listening to the private conversation and understanding its context. 
+Today [the NYT released an artilce](https://www.nytimes.com/2021/07/04/sports/basketball/espn-rachel-nichols-maria-taylor.html) on ESPN's messy politics that had "Rachel Nichols" as top trending topic on Twitter. It was interesting to see the self-preceived 'ally' of social equality was being raked over the coals by the social media progressives. However, after reading the piece it seems the reaction on social media seems to have happened without listening to the private conversation and understanding its context (shocking, I know). 
 Nichols wasn't disparaging Taylor as the article disingenuously framed; she was speaking to a top PR advisor on how to solve her problem.
 Nichols, someone with 20+ years of experience and accomplishments, saw the proposed sideline assignment as a demotion,
 so she sought out a political strategy to get back the role that had been contractually hers. Given the corporate politics at ESPN were described as a 'snake pit',
