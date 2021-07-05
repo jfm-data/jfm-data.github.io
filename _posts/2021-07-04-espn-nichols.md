@@ -21,7 +21,7 @@ but it doesn't make her racist. It makes her human. The social media trolls cryi
 situation are either dishonest or completely delusional.  
 
 The charge of racism seems to be a projection from the source of the story to provide Taylor leverage for a new contract with ESPN. 
-The [New York Post reported](https://nypost.com/2021/06/30/maria-taylor-espn-face-divorce-after-near-5-million-offer/) that Taylor was in an acrimonious negotiation with ESPN where she expected Stephen A. Smith-level money (~$8M), 
+The [New York Post reported](https://nypost.com/2021/06/30/maria-taylor-espn-face-divorce-after-near-5-million-offer/) that Taylor was in an acrimonious negotiation with ESPN where she holding out for Stephen A. Smith-level money (~$8M), 
 but the WWL had dropped their offer to the $2M-3M range. With only 3 weeks left before her deal expires, her team threw a mongoose into the ESPN snake pit.
 It was a cunning political move in retaliation of the Post's story. Not only does it raise the racial implications over the ESPN executives, it damages
 the value and image of her completion the ESPN suits could use against her.
