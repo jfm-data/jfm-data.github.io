@@ -16,7 +16,7 @@ something that seems to be common knowledge in sports media, Nichols' motives we
 Nichols is a polished host and the driving force behind ESPN's daily NBA TV show, The Jump. It would only be natural for her to think of herself
 as the deserving host of the NBA Finals pre-game show on ABC. Then factor in the conspicuous timing of Maria receiving the permanent role over her,
 which happened to coincide with the heights of the BLM movement when corporations prioritized actions to be perceived as diversity 'allies'.
-For Rachel to form the opinion that ESPN's decision was racially motivated is an elementary deduction. It doesn't mean she was right (Maria could be the better host),
+ For Rachel to form the opinion that ESPN's decision was racially motivated is an elementary deduction. It doesn't mean she was right (Maria could be the better host),
 but it doesn't make her racist. It makes her human. The social media trolls crying racism on Twitter believe they would think differntly in her 
 situation are either dishonest or completely delusional.  
 
