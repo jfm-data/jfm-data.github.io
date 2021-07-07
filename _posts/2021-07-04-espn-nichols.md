@@ -13,8 +13,7 @@ Nichols, someone with 20+ years of experience and accomplishments, saw the propo
 so she sought out a political strategy to get back the role that had been contractually hers. Given the corporate politics at ESPN were described as a 'snake pit',
 something that seems to be common knowledge in sports media, Nichols' motives were circumspect rather than nefarious.  
 
-Nichols is a polished host and the driving force behind ESPN's daily NBA TV show, The Jump. It would only be natural for her to think of herself
-as the deserving host of the NBA Finals pre-game show on ABC. Then factor in the conspicuous timing of Maria receiving the permanent role over her,
+Nichols is a polished host and the driving force behind ESPN's successful daily NBA TV show, *The Jump*. It was in her contract that *The Jump* would be the pre-game show for The NBA Finals games on ABC. So losing the pre-game meant losing the opportunity to grow the brand of her project on network television. Of course she was going upset. Then factor in the conspicuous timing of Maria receiving the permanent role over her,
 which happened to coincide with the heights of the BLM movement when corporations were clambering to be perceived as diversity 'allies'.
  For Rachel to form the opinion that ESPN's decision was racially motivated is an elementary deduction. It doesn't mean she was right (Maria could be the better host),
 but it doesn't make her racist. It makes her human. This is typical office gossip that happens in any workplace with bad leadership. The social media trolls crying racism on Twitter who believe they would think differntly in her 
