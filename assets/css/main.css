@@ -84,7 +84,8 @@
     color: rgb(245, 243, 243);
     display: block; 
     margin: 60px;}
-
+  .logo a {
+    color: #f7eea8}
   .menu {
     color: #828282;
     font-size: 150%;
