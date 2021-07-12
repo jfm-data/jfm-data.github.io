@@ -23,7 +23,9 @@ Dr. Milburn shot down all points with facts, reason, and logic -- yet there rema
 Since his CBC Radio discussion, Dr. Milburn has been relentlessly attacked by Redditors, Facebookers, and social media trolls. It is hard to find any online discourse about
 Dr. Milburn following his criticism of Strang that is not trying to discredit him or call him an idiot. Soon after a petition was started to remove Dr. Milburn as head of the ER in the CBRM. I found his reponse to the social media backlash eloquent:  
 >*"What I'm for is science, and what I'm for is personal choice ......Patient autonomy is one of the basic, ethical foundations of our modern health care system"*.- Dr. Chris Milburn
->
+>   
+
+
 However the media seemed happy to comply with mob in assisting the character assassination. The CBC had buried Dr. Mliburn's criticisms and his own defence while amplifying Dr. Strang's empty rebuttal during hourly news updates. Sadly, like his devout followers, Dr.Strag never addressed the concerns or the science and data that Dr. Milburn raised on the radio interview -- he only made the proclamation that **HE** was the public health expert, not Milburn.
 
 
