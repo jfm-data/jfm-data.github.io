@@ -219,7 +219,7 @@
 /* =Small screen *//*************************************************************/
   @media (max-width: 500px) {
     p, ul, ol, dl {
-      font-size: 100%;
+      font-size: 123%;
       line-height: 1.6; }
 
     .wrapper {
