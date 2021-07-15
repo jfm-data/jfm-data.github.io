@@ -26,7 +26,7 @@
   p, ul, ol, dl {
     font-family: "PT Sans Caption", PT Sans Caption;
     font-size: 120%;
-    line-height: 32px; }
+    line-height: 34px; }
 
   img {
     display: block;
@@ -66,9 +66,9 @@
     color:#FFF;
     background-color: #eeeeee;
     background-image: url(/images/lighthouse_2.jpg);
-    background-position: right 25% top -10%;
+    background-position: bottom;
     background-size: cover;
-    height: 200px;}
+    height: 250px;}
 
   .navigation {
     float: left;
