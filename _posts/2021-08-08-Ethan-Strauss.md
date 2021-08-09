@@ -9,7 +9,7 @@ categories: basketball
 
 In mid-July I noticed I haven't read Ethan Strauss in a while, so I had to check if I had missed one of his published articles. 
 I love reading about the business side of basketball, and not only does Ethan cover it from interesting angles, but he's also an immensely talented writer. 
-I became a fan after his 2015 expose on how Nike had lost Steph Curry to UA. It was an original perspective of how the NBA is the battleground for a proxy war
+I became a fan after his 2016 expose on [how Nike had lost Steph Curry to UA](https://www.espn.com/nba/story/_/id/15047018/how-nike-lost-stephen-curry-armour). It was an original perspective of how the NBA is the battleground for a proxy war
 between giant athletic apparel companies. The article framed that for the top 1% of players, their relationships with these companies are stronger, longer-lasting,
 and more financially lucrative than what any NBA franchise could offer them. Which raises the question, who do are they really working for? I might have thought it
 was a little sensationalized while thinking something akin to what Kevin Durrant said later in 2016: "ain't no one wears those", except the next time I was getting
