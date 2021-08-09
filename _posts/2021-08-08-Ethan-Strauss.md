@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Ethan Strauss is leaving The Athletic"
-subtitle: "Where is the Rating Gure Going?"
+title: "Ethan Strauss is Leaving The Athletic"
+subtitle: "Where is The Most Hated Man In NBA Media Going?"
 date:   2020-08-8 21:21:21 +0530
 categories: basketball
 ---
