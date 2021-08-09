@@ -15,7 +15,7 @@ and more financially lucrative than what any NBA franchise could offer them. Whi
 was a little sensationalized while thinking something akin to what Kevin Durrant said later in 2016: "ain't no one wears those", except the next time I was getting
 up shots at the Y, I noticed everyone under 20 was wearing Curry's signature shoes. 
 
-Upon his unceremonious exit from ESPN in 2017, the WWL published his last must-read on how Durant signing with the Warriors was a UA fever dream come reality.
+Upon his unceremonious exit from ESPN in 2017, the WWL [published his last must-read on how Durant signing with the Warriors](http://www.espn.com/espn/feature/story/_/page/presents19256296/golden-state-warriors-steph-curry-stopped-only-kevin-durant) was a UA fever dream come reality.
 At that time, Steph Curry was the undisputed most popular player in the NBA. His team and individual success generated much envy from the other marquee names,
 particularly LeBron James who held the mantle. I remember even Obama's doing a viral video sketch
 with Steph and his wife, raising accusations of the Obama's were clout chasing. Steph was an incandescent star. 
