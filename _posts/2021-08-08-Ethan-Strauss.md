@@ -1,9 +1,10 @@
+--------------
 layout: page
 title: "Ethan Strauss is leaving The Athletic"
 subtitle: "Where is the Rating Gure Going?"
 date:   2020-08-8 21:21:21 +0530
 categories: basketball
-
+---------------------------
 
 
 In mid-July I noticed I haven't read Ethan Strauss in a while, so I had to check if I had missed one of his published articles. 
