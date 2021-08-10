@@ -51,9 +51,11 @@ Wherever he goes, I will be reading and listening.
 ### EDIT:
 
 After a quick update, I have to be more specific with my prediciton -- I think he'll go to Cowherd's podcast company, *The Volume Sports*. I looked up Colin after I wrote this blog and saw this..
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In a good MOOD(s) today 😎<br><br>Just wait. The next couple of weeks on <a href="https://twitter.com/TheVolumeSports?ref_src=twsrc%5Etfw">@TheVolumeSports</a> are going to be big. <a href="https://t.co/RdLlVXW7TA">pic.twitter.com/RdLlVXW7TA</a></p>&mdash; Colin Cowherd (@ColinCowherd) <a href="https://twitter.com/ColinCowherd/status/1423045452241510404?ref_src=twsrc%5Etfw">August 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In a good MOOD(s) today 😎<br><br>Just wait. The next couple of weeks on <a href="https://twitter.com/TheVolumeSports?ref_src=twsrc%5Etfw">@TheVolumeSports</a> are going to be big. <a href="https://t.co/RdLlVXW7TA">pic.twitter.com/RdLlVXW7TA</a></p>&mdash; Colin Cowherd (@ColinCowherd) <a href="https://twitter.com/ColinCowherd/status/1423045452241510404?ref_src=twsrc%5Etfw">August 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 Also, there is a chance he joins Dan Le Batard's given his amusing resposne to Cowherd.
 
+<center>
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr">— Dan <a href="https://t.co/km0BA0FsRz">pic.twitter.com/km0BA0FsRz</a></p>&mdash; Dan Le Batard Show with Stugotz (@LeBatardShow) <a href="https://twitter.com/LeBatardShow/status/1423069299703492608?ref_src=twsrc%5Etfw">August 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
