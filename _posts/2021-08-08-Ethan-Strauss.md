@@ -50,7 +50,7 @@ Wherever he goes, I will be reading and listening.
 
 ### EDIT:
 
-After a quick update, I have to be more specific with my prediciton -- I think he'll go to Cowherd's podcast company, *The Volume Sports*. I looked up Colin after I wrote this blog and saw this..
+After a quick update, I have to be more specific with my prediciton -- I think he'll go to Cowherd's podcast company, *The Volume Sports*. I reached this conclusion aftering looking up Colin and saw this...
 <center>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In a good MOOD(s) today 😎<br><br>Just wait. The next couple of weeks on <a href="https://twitter.com/TheVolumeSports?ref_src=twsrc%5Etfw">@TheVolumeSports</a> are going to be big. <a href="https://t.co/RdLlVXW7TA">pic.twitter.com/RdLlVXW7TA</a></p>&mdash; Colin Cowherd (@ColinCowherd) <a href="https://twitter.com/ColinCowherd/status/1423045452241510404?ref_src=twsrc%5Etfw">August 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
