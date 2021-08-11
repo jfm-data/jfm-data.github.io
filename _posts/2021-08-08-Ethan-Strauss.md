@@ -9,16 +9,14 @@ categories: basketball
 
 In mid-July I noticed I haven't read Ethan Strauss in a while, so I had to check if I had missed one of his published articles. 
 I love reading about the business side of basketball, and not only does Ethan cover it from interesting angles, but he's also an immensely talented writer. 
-I became a fan after his 2016 expose on [how Nike had lost Steph Curry to UA](https://www.espn.com/nba/story/_/id/15047018/how-nike-lost-stephen-curry-armour). It was an original perspective of how the NBA is the battleground for a proxy war
-between giant athletic apparel companies. The article framed that for the top 1% of players, their relationships with these companies are stronger, longer-lasting,
-and more financially lucrative than what any NBA franchise could offer them. Which raises the question, who do are they really working for? I might have thought it
-was a little sensationalized while thinking something akin to what Kevin Durrant said later in 2016: "ain't no one wears those", except the next time I was getting
-up shots at the Y, I noticed everyone under 20 was wearing Curry's signature shoes. 
+I became a fan after his 2016 exposé on [how Nike had lost Steph Curry to UA](https://www.espn.com/nba/story/_/id/15047018/how-nike-lost-stephen-curry-armour). It was an original perspective of how the NBA is the battleground for a proxy war
+happening between athletic apparel companies. The article framed how the top 1% of players have much stronger alignment with their sneaker company than their NBA team. The deals are longer-lasting and more financially lucrative than what any NBA franchise could offer them. Which raises the question, who are they really working for? I might have thought it
+was a little sensationalized on the UA angle while thinking something like what Kevin Durrant said later in 2017: ["ain't no one wants to play in Under Armour"](https://www.businessinsider.com/kevin-durant-slams-under-armour-shoes-2017-8?op=1), except the next time I was getting up shots at the Y I noticed everyone under 20 was wearing Curry's signature shoes. 
 
 Upon his unceremonious exit from ESPN in 2017, the WWL [published his last must-read on how Durant signing with the Warriors](http://www.espn.com/espn/feature/story/_/page/presents19256296/golden-state-warriors-steph-curry-stopped-only-kevin-durant) was a UA fever dream come reality.
 At that time, Steph Curry was the undisputed most popular player in the NBA. His team and individual success generated much envy from the other marquee names,
 particularly LeBron James who held the mantle. I remember even Obama's doing a viral video sketch
-with Steph and his wife, raising accusations of the Obama's were clout chasing. Steph was an incandescent star. 
+with Steph and his wife, raising accusations that the Obama's were clout chasing. Steph was that level of an incandescent star. 
 KD's signing with the Warriors took the wind out of the sails for UA and Curry's national reputation. The Warriors were still popular, 
 but adding the best player in the league to a 73-win team brought public resentment and lost them the title of everyone's second favourite team. 
 And with Steph no longer the offensive fulcrum of a fun-to-watch organically built team, his popularity waned.  In the first year that Durant played 
