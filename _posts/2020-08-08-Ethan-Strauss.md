@@ -2,7 +2,7 @@
 layout: page
 title: "Ethan Strauss is Leaving The Athletic"
 subtitle: "Where is The Most Hated Man In NBA Media Going?"
-date:   2021-08-8 21:21:21 +0530
+date:   2020-08-8 21:21:21 +0530
 categories: basketball
 ---
 
