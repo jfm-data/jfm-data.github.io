@@ -6,6 +6,7 @@ date:   2021-08-8 21:21:21 +0530
 categories: basketball
 ---
 
+TL:DR -- FS1 IMHO, jump below to see reasons why
 
 In mid-July I noticed I haven't read Ethan Strauss in a while, so I had to check if I had missed one of his published articles. 
 I love reading about the business side of basketball, and not only does Ethan cover it from interesting angles, but he's also an immensely talented writer. 
