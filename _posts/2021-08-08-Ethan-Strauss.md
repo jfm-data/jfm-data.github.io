@@ -6,12 +6,12 @@ date:   2021-08-8 21:21:21 +0530
 categories: basketball
 ---
 
-TL:DR -- FS1 IMHO, jump below to see reasons why
+**TL:DR -- FS1 IMHO, jump below to see reasons why**
 
-In mid-July I noticed I haven't read Ethan Strauss in a while, so I had to check if I had missed one of his published articles. 
+In mid-July I noticed I Ethan Strauss stopped publishing articles at The Athletic. I missed his writing because
 I love reading about the business side of basketball, and not only does Ethan cover it from interesting angles, but he's also an immensely talented writer. 
 I became a fan after his 2016 exposé on [how Nike had lost Steph Curry to UA](https://www.espn.com/nba/story/_/id/15047018/how-nike-lost-stephen-curry-armour). It was an original perspective of how the NBA is the battleground for a proxy war
-happening between Nike, Adidas, Under Armour and the rest. The article framed how the top 1% of players their relationship with their sneaker company was stronger than with their NBA team. They are getting more money on longer deals than any team NBA franchise could offer. Which raised the question, who are they really working for? I might have thought it
+happening between Nike, Adidas, Under Armour and the rest. The article framed how the relationships for top 1% of players are much stronger with their sneaker company with their NBA team. They are get more money and sign lifetime deals. Which raised the question, who are they really working for? I might have thought it
 was a hyperbole on the UA angle while thinking something like what Kevin Durrant said later in 2017: ["ain't no one wants to play in Under Armour"](https://www.businessinsider.com/kevin-durant-slams-under-armour-shoes-2017-8?op=1), except the next time I was getting up shots at the Y, I noticed everyone under 20 was wearing Curry's signature shoes. 
 
 Upon Ethan's unceremonious exit from ESPN in 2017, the WWL [published his last must-read on how Durant signing with the Warriors](http://www.espn.com/espn/feature/story/_/page/presents19256296/golden-state-warriors-steph-curry-stopped-only-kevin-durant) was a UA fever dream come reality.
@@ -20,19 +20,19 @@ particularly LeBron James who crowned himself as King. I remember even Obama's d
 with Steph and his wife, raising accusations that the Obama's were clout chasing :). Steph was that level of an incandescent star. 
 KD's signing with the Warriors took the wind out of the sails for UA and Curry's national reputation. The Warriors were still popular, 
 but adding the best player in the league to a 73-win team brought public resentment and lost them the title of everyone's second favourite. 
-And with Steph no longer the offensive fulcrum of a fun-to-watch organically built team, his popularity also waned.  In KD's first year with the team, Under Armor lost  ~50% /$10B of its market value. Coincidently, it stayed low until Steph was back in carrying the GSW offense. It was a great 
+And with Steph no longer the offensive fulcrum of a fun-to-watch organically built team, his popularity also waned.  In KD's first year, Under Armor lost ~50% /$10B of its market value. Coincidently, it stayed low until Steph was back in carrying the GSW offense. It was a great 
 article that added more credibility to his reporting.
 
 After his ESPN contract ended, Ethan joined The Athletic as a columnist writing about the NBA, the Warriors, gambling, and the business side of basketball.
-For the past year, Strauss has become known and infamous in NBA fandom for shining a spotlight on the NBA's dull TV ratings. He wrote elegantly and objectively
-on the viewership while competing with the league's PR spin and the irate social media trolls. I really these articles. I had studied the pay-TV market in 2015
+For the past year, Strauss has become known and infamous in NBA fandom for shining a spotlight on the NBA's sagging TV ratings. He wrote elegantly and objectively
+on the viewership while competing with the league's PR and the irate social media trolls. I really these articles. I had studied the pay-TV market in 2015
 when looking at the media venture capital fund that held a portfolio of cable specialty channels. I knew where the market was heading and was always annoyed 
-to hear the lazy NBA narrative that the next broadcast rights deal would be massive. It defied the economics and media trends. Strauss was the first major reporter (to my knowledge) to openly discuss and challenge the narrative. His reporting made him a lightning rod of criticism for those who saw it defaming the NBA and the politics it embraced.
+to hear the lazy NBA narrative that the next broadcast rights deal would be massive. It defied the economics and media trends. Strauss was the first major reporter (to my knowledge) to openly discuss and challenge that narrative. His reporting made him a lightning rod of criticism for those who saw it defaming the NBA and the politics it embraced.
 Ethan had simply identified some of the independent variables for the decline, without getting into the righteousness of the politics themselves. Regardless,
 this angered a contingent of "woke" fans for even suggesting it. For them, to be ignorant of the failing ratings is a thing of virtue.  
 
-To me, it's crazy the amount of vitriol Ethan gets for his reporting on TV ratings. The phenomenon might demonstrate how everything interally
-politicalized and there is no such thing as rational arguments. There is no political agenda in Ethan's reporting. He is calling balls and strikes. Ethan was educated at Cal Berkely and still lives in the area, yet if you search his name on Twitter, people react to him like he's a MAGA pizza-gater.
+To me, it's crazy the amount of vitriol Ethan gets for his reporting on TV ratings. The phenomenon might demonstrate how everything is interally
+politicalized. There is no political agenda in Ethan's reporting. He is calling balls and strikes. Ethan was educated at Cal Berkely and still lives in the area, yet if you search his name on Twitter, people react to him like he's a MAGA pizza-gater.
 
 So where is Strauss going? Tom Haberstroh had insinuated that he would be covering the NBA from a national perspective. We could probably rule 
 out ESPN and TNT/Blecher Report. I am sure the two league broadcast partners would be reluctant to hire someone who generated negative press about 
