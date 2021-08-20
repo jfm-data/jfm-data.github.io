@@ -19,8 +19,7 @@ particularly LeBron James who crowned himself as King. I remember even Obama's d
 with Steph and his wife, raising accusations that the Obama's were clout chasing :). Steph was that level of an incandescent star. 
 KD's signing with the Warriors took the wind out of the sails for UA and Curry's national reputation. The Warriors were still popular, 
 but adding the best player in the league to a 73-win team brought public resentment and lost them the title of everyone's second favourite. 
-And with Steph no longer the offensive fulcrum of a fun-to-watch organically built team, his popularity also waned.  In the first year that Durant played 
-with the Warriors, Under Armor lost  ~50% /$10B of its market value and coincidently stayed low until Steph was back in carrying the GSW. It was a great 
+And with Steph no longer the offensive fulcrum of a fun-to-watch organically built team, his popularity also waned.  In KD's first year with the team, Under Armor lost  ~50% /$10B of its market value. Coincidently, it stayed low until Steph was back in carrying the GSW offense. It was a great 
 article that added more credibility to his reporting.
 
 After his ESPN contract ended, Ethan joined The Athletic as a columnist writing about the NBA, the Warriors, gambling, and the business side of basketball.
