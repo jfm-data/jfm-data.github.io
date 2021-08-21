@@ -41,7 +41,7 @@ popular, perhaps he has a big enough audience where he would earn more writing f
 
 But where I think he'll go is FS1. Strauss has always been a favourite of Colin Cowherd. Cowherd appreciates Ethan's thinking and would find ways to
 include him in other parts of his 2-hour daily show. Since FS1 is not a league partner, he would be free and encouraged to write about ratings without repercussions. 
-Wherever he goes, I will be reading and listening.
+
 
 ### EDIT:
 
