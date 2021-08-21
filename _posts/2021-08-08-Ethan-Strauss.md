@@ -32,7 +32,7 @@ Ethan had simply identified some of the independent variables for the decline, w
 this angered a contingent of "woke" fans for even suggesting it. For them, to be ignorant of the failing ratings is a thing of virtue.  
 
 To me, it's crazy the amount of vitriol Ethan gets for his reporting on TV ratings. The phenomenon might demonstrate how everything is interally
-politicalized. There is no political agenda in Ethan's reporting. He is calling balls and strikes. Ethan was educated at Cal Berkely and still lives in the area, yet if you search his name on Twitter, people react to him like he's a MAGA pizza-gater.
+politicalized. There is no political agenda in Ethan's reporting. He is calling balls and strikes. Ethan was educated at Cal Berkely and still lives in the area, yet if you search his name on Twitter you'll see people react to him like he's a MAGA pizza-gater.
 
 So where is Strauss going? Tom Haberstroh had insinuated that he would be covering the NBA from a national perspective. We could probably rule 
 out ESPN and TNT/Blecher Report. I am sure the two league broadcast partners would be reluctant to hire someone who generated negative press about 
