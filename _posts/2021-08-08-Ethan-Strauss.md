@@ -11,13 +11,13 @@ TL:DR -- FS1 IMHO, jump below to see reasons why
 In mid-July I noticed I Ethan Strauss stopped publishing articles at The Athletic. I missed his writing, not only was 
 were business side of basketball columns interesting, but he's also an uber talented writer. 
 I became a fan after his 2016 exposé on [how Nike had lost Steph Curry to UA](https://www.espn.com/nba/story/_/id/15047018/how-nike-lost-stephen-curry-armour). It was an original perspective of how the NBA is the battleground for a proxy war
-happening between Nike, Adidas, Under Armour and the rest. The article framed how this battle made the sneaker companies relationships with the top 1% of players more important than their NBA team. It is simple, they they got more money on decade-plus contracts. Ethan raised the provocative question, who are they really working for? It was a good question that may explain some of the player movement in the NBA....which led into his next massive peice.
+happening between Nike, Adidas, Under Armour and the rest. The article framed how this battle made the sneaker companies relationships with the top 1% of players more important than their NBA team. It is simple, they they got more money on decade-plus contracts. Ethan raised the provocative question, who are they really working for? It was a good question that may explain some of the player movement in the NBA....which led into his next massive story.
 
-Upon Ethan's unceremonious exit from ESPN in 2017, the WWL [published his last must-read on how Durant signing with the Warriors](http://www.espn.com/espn/feature/story/_/page/presents19256296/golden-state-warriors-steph-curry-stopped-only-kevin-durant) was a UA fever dream come reality.
+Upon Ethan's unceremonious exit from ESPN in 2017, the WWL [published a must-read on how Durant signing with the Warriors](http://www.espn.com/espn/feature/story/_/page/presents19256296/golden-state-warriors-steph-curry-stopped-only-kevin-durant) was a UA nightmare come reality.
 At that time, Steph Curry was the undisputed most popular player in the NBA with a surprisingly popular signature shoe. His team and individual success generated much envy from the other marquee names,
 particularly LeBron James who crowned himself as King and represented Nike. KD's signing with the Warriors took the wind out of the sails for UA and Curry's national reputation. The Warriors were still popular, 
 but adding the best player in the league to a 73-win team brought public resentment and lost them the title of everyone's second favourite. 
-And with Steph no longer the offensive fulcrum of a fun-to-watch organically built team, his popularity also waned.  In KD's first year, Under Armor lost ~50% /$10B of its market value. Coincidently, it stayed low until Steph was back in carrying the GSW offense. It was a great 
+And with Steph no longer the offensive fulcrum of a fun-to-watch organically built team, his popularity also waned. Nike was loving it. In KD's first year, Under Armour lost ~50% /$10B of its market value. Coincidently, it stayed low until Steph was back in carrying the GSW offense. It was a great 
 article that added more credibility to his reporting.
 
 After his ESPN contract ended, Ethan joined The Athletic as a columnist writing about the NBA, the Warriors, gambling, and the business side of basketball.
