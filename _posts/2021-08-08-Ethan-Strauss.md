@@ -6,13 +6,12 @@ date:   2021-08-8 21:21:21 +0530
 categories: basketball
 ---
 
-**TL:DR -- FS1 IMHO, jump below to see reasons why**
+TL:DR -- FS1 IMHO, jump below to see reasons why
 
-In mid-July I noticed I Ethan Strauss stopped publishing articles at The Athletic. I missed his writing because
-I love reading about the business side of basketball, and not only does Ethan cover it from interesting angles, but he's also an immensely talented writer. 
+In mid-July I noticed I Ethan Strauss stopped publishing articles at The Athletic. I missed his writing, not only was 
+were business side of basketball columns interesting, but he's also an uber talented writer. 
 I became a fan after his 2016 exposé on [how Nike had lost Steph Curry to UA](https://www.espn.com/nba/story/_/id/15047018/how-nike-lost-stephen-curry-armour). It was an original perspective of how the NBA is the battleground for a proxy war
-happening between Nike, Adidas, Under Armour and the rest. The article framed how the relationships for top 1% of players are much stronger with their sneaker company with their NBA team. They are get more money and sign lifetime deals. Which raised the question, who are they really working for? I might have thought it
-was a hyperbole on the UA angle while thinking something like what Kevin Durrant said later in 2017: ["ain't no one wants to play in Under Armour"](https://www.businessinsider.com/kevin-durant-slams-under-armour-shoes-2017-8?op=1), except the next time I was getting up shots at the Y, I noticed everyone under 20 was wearing Curry's signature shoes. 
+happening between Nike, Adidas, Under Armour and the rest. The article framed how this battle made the sneaker world relationships with the top 1% of players are much stronger r NBA teams could. It is simple, they they got more money on decade-plus contracts. Ethan raised the provocative question, who are they really working for? It was a good question that may explain some of the player movement in the NBA....which led into his next massive peice.
 
 Upon Ethan's unceremonious exit from ESPN in 2017, the WWL [published his last must-read on how Durant signing with the Warriors](http://www.espn.com/espn/feature/story/_/page/presents19256296/golden-state-warriors-steph-curry-stopped-only-kevin-durant) was a UA fever dream come reality.
 At that time, Steph Curry was the undisputed most popular player in the NBA. His team and individual success generated much envy from the other marquee names,
