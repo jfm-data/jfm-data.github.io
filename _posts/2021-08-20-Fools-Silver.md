@@ -9,7 +9,7 @@ author: "Capt. Sisko Simpson"
 
 
 <p><span id="time"></span> minute read</p>
-<article id= "article">
+
 
 
 Is the NBA in good shape? It has become a is a bit of a thorny question in NBA circles given the political bend that has imprinted the league in recent years. 
@@ -49,4 +49,3 @@ drives and doesn't can't make a play they either snap their head back like a sni
 
 Then there is the end of game scenarios: The NBA replay review is the antithesis of entertainment. Whenever I see a player making the replay review signal I consider turning off the TV. Not only does it take too long and the refs go to it too frequently, but also still get the call wrong. Nothing was worse was when Pat Beverly swiped the ball loose from LeBron on a Christmas day game. In that situation, only a lunatic would argue it was defense ball. Yet, Pat Bev twirled his finger which caused a lengthy review that caught a frame where LeBron touched the ball last. It was totally absurd. All other basketball games would never consider that defense ball and NO ONE would have complained. Just in general, these replay reviews are out of control. In the playoffs last year it took 30 minutes to play the final 3 minutes of game time. Sometimes I think it's just the refs saying f--- you for making me review my work in front of a captive audience.
 
-  </article>
