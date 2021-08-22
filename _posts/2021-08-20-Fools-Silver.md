@@ -6,16 +6,7 @@ date:   2021-08-20 21:21:21 +0530
 categories: basketball
 author: "Capt. Sisko Simpson"
 ---
-<script type="text/javascript">
-function readingTime() {
-  const text = document.getElementById("article").innerText;
-  const wpm = 225;
-  const words = text.trim().split(/\s+/).length;
-  const time = Math.ceil(words / wpm);
-  document.getElementById("time").innerText = time;
-}
-readingTime();
-</script>
+
 
 <p><span id="time"></span> minute read</p>
 <article id= "article">
