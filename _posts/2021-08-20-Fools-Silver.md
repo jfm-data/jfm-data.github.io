@@ -13,15 +13,11 @@ author: "Capt. Sisko Simpson"
 
 
 Is the NBA in good shape? It has become a is a bit of a thorny question in NBA circles given the political bend that has imprinted the league in recent years. 
-But if we strip the emotional baggage, can we all agree the NBA product has degraded in the last 5-10 years? I am a basketball junkie, but it's harder to watch 
-with the drawn-out end of games, egregious foul baiting, complaining to refs, and the god-awful replay reviews. This was clear to anyone who watched Olympic basketball. 
-The flow was better, the game was more physical, and the refs weren't buying the flopping bailouts. I am not alone. The NBA TV ratings have been declining at a faster rate
-than cable cord-cutting -- and the Network TV (free!) ratings are worse. Adam Silver has been commissioner over these declines and should own the loins share of responsibility.
-So, why doesn't he get any blame?
+But if we strip the emotional baggage, can we all agree the product is getting worse? The egregious foul baiting, complaining to refs, god-awful replay reviews, and long drawn-out end of games situations have increasingly make it a tough watch. I am far from alone in my feelings. Fewer are watching as reflected in falling TV viewership, which includes higher rates of declines on Network TV which is free from the cord-cuttig excuse. Overseeing these declines numbers and quality of play is Adam Silver. So, why doesn't he get any blame? 
 
 Currently, Silver's reputation continues to gorge on his decision to force a feeble Donald Sterling to sell the LA Clippers. Yet, an objective reflection on the history makes
 it a far cry from the profile in courage the media likes to trumpet. Sterling was the worst owner in pro sports. He had a long list of past improprieties from players and staff.
-He was a leech on other owners for profiting on his equal share of league-generated revenues while perennially fielding a minimum viable product. No one wanted him in the league.
+He was a leech on other owners for profiting on his equal share of league-generated revenues while perennially fielding a cheapest product. No one wanted him in the league.
 
 Silver didn't even have to deal with the sociopath. It was his jealous and aggrieved wife who held power of attorney over his estate. On the flip-side of the equation was a
 desperate and uber-rich buyer who paid a once inconceivable record asking price that included(!!) letting the Sterlings retain some of the narcissistic perks of ownership.
