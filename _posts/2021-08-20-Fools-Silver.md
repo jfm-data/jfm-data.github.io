@@ -13,7 +13,7 @@ author: "Capt. Sisko Simpson"
 
 
 Is the NBA in good shape? It has become a is a bit of a thorny question in NBA circles given the political bend that has imprinted the league in recent years. 
-But if we were to set aside the emotion, can we all agree the NBA product has degraded in the last 5-10 years? I am a basketball junkie, but it's harder to watch 
+But if we strip the emotional baggage, can we all agree the NBA product has degraded in the last 5-10 years? I am a basketball junkie, but it's harder to watch 
 with the drawn-out end of games, egregious foul baiting, complaining to refs, and the god-awful replay reviews. This was clear to anyone who watched Olympic basketball. 
 The flow was better, the game was more physical, and the refs weren't buying the flopping bailouts. I am not alone. The NBA TV ratings have been declining at a faster rate
 than cable cord-cutting -- and the Network TV (free!) ratings are worse. Adam Silver has been commissioner over these declines and should own the loins share of responsibility.
