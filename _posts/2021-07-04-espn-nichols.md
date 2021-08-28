@@ -7,6 +7,9 @@ categories: business
 
 ---
 
+      <center><img src="https://www.thewrap.com/wp-content/uploads/2021/07/Rachel-Nichols-Maria-Taylor-ESPN.jpg" ></center>
+      <center>This is an image</center>
+
 This week [the NY Times released an artilce](https://www.nytimes.com/2021/07/04/sports/basketball/espn-rachel-nichols-maria-taylor.html) on the messy internal battle at ESPN that had "Rachel Nichols" as a top trending topic on Twitter. It was curious to see why the self-proclaimed 'ally' was being raked over the coals by the social media progressives. But of course, after reading the article and meta-analysis around it, the reaction to the Times' story was emotional and void of nuance and context (shocking, I know). The Times disingenuously contrived Nichols' comments as disparaging of Taylor with harsh racial overtones. This was ludicrous. Rachel went out of her way on a private conversation to say Taylor was great and wished her success at ESPN. The only problem with Nichols' comments were that it exposed her NIMBY mentality as it relates to her personal advocacy on racial eqaulity -- a common infliction among suburban white liberals. She was calling out ESPN for its apparent "crappy" record of diversity, but of course, they shouldn't let this be addressed at her expense.
 Kevin Draper also ignored the biggest piece of context that would have properly framed the conversation: Rachel didn't lose being the host of the Countdown, she lost her ESPN project, *The Jump*, being the NBA Finals pre-game show.
 
