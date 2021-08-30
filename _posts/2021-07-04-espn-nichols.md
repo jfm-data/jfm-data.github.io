@@ -24,3 +24,16 @@ while the WWL had dropped their inital offer from $5M/year to the $2M-3M range. 
 the value and image of her competition they could use as leverage against her. 
 
 In my view, the story is more about how nasty and toxic corporate politics at ESPN is when millions of dollars are at stake. Does either deserve sympathy? I have never worked in media, but it's easy to understand that the egos are big and airtime is a zero-sum game. This particular mess reminds me of one of my [favourite quotes from Game of Thrones](https://www.youtube.com/watch?v=FOvKSrwSl00): **_"When you play the game of thrones, you win or you die"_**. Rachel got caught privately (and perhaps illegally) portraying herself as a female victim of reverse discrimination, while Maria played the game by portraying herself publicly, in the most widely read newspaper, as a black female victim of racism at the hands of her rival. In the victimization hierarchy battle of 2021, its no contest. We just witnessed ~~Ned's~~ Rachel's head roll at the steps of the Great Sept of Baelor, and I expect we'll see ~~Cersei~~ Maria wearing a crown with an $8 million dollar price tag. 
+
+<header> 
+       <script type="text/javascript">
+        var clicks = 0;
+        function updateClickCount() {
+            document.getElementById("clickCount").innerHTML = clicks;
+        }
+    </script>
+ <button type="button" onClick="clicks++;updateClickCount();" id="push">Like</button>
+    <i class="mdi-action-favorite red-text text-lighten-1"></i> <a href="#">
+    <div id="clickCount"></div></a>
+</header>
+
