@@ -1,9 +1,9 @@
 ---
-layout: page
-title:  "The Sins Of Lockdowns"
-subtitle: "Repeating Failed Policy"
-date:   2021-04-28 21:21:21 +0530
-categories: politics
+#layout: page
+#title:  "The Sins Of Lockdowns"
+#subtitle: "Repeating Failed Policy"
+#date:   2021-04-28 21:21:21 +0530
+#categories: politics
 ---
 
 The Nova Scotia government made inexplicable news this week when they decided to lockdown Nova Scotians for the third time. It seems the politicians and bureaucrats are choosing to ignore the 14-months of empirical data on how harmful and ineffective and these policies really are. Rather than analyzing and learning from the data, they have reverted to a destructive policy conceived and untested in a brief moment of global anxiety. 
