@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Credentialism & Censorship
-subtitle: "Dr. Despot"
+subtitle: Speak Your Mind
 date:   2022-01-01 21:21:21 +0530
 categories: politics
 
