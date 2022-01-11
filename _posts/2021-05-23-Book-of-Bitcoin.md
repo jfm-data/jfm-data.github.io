@@ -29,9 +29,9 @@ Thirdly, the religion does involve theology to mind -- A HODLer must be well-ver
 - __It's a store of value that is protected from the FED's inflation!*__ (_*just don't show them any chart with r2-value that reveals zero relationship between inflation and BTC price_)
 - __It can't be manipulated!*__ (_*this talking point becomes temporary invalid when a "dip" happens and we need to scapegoat an unfaithful Whale_). 
 - __It's the Apex predator of the financial markets!__ (_just like MySpace was the apex predator of social networks_).
-You must also study the language of HODLers. HFSP, FUD, BTFD, REKT, Rug pull, are necessary terms to understand. They help identify other members of the faith in ~~echo chambers~~ on social media and messageboards. They are also very useful when it comes time to ratchet up the FOMO on the pagans -- or to shame out of shitcoin considerations.
+You must also study the language of HODLers. HFSP, FUD, BTFD, REKT, Rug pull, and bag holder are necessary terms to understand. They help identify other members of the faith in ~~echo chambers~~ on social media and messageboards and spread the gospel. They are also very useful when it comes time to ratchet up the FOMO on the pagans -- or when to shame out of shitcoin considerations.
 
-Lastly, the source of strength for the BTC/USD God comes from new members, so there is an ordinance of evangelism. Twitter is preferred medium for missionary work, 
+Lastly, the greatest source of strength for the BTC/USD God comes from new members of the church, so there is an ordinance of evangelism. Twitter is preferred medium for missionary work, 
 so please please adorn your profile/bio with hierograms such as "#Bitcoin" and adding glowing red lights over your avatar's eyes.
 More devout members will amplify the creeds of our holy men by re-tweeting their irreconcilable truths.  In moments of FUD, look to tweet/retweet messages like 
 "_I'M NEVER SELLING!!_" or "_I just bought the dip, did you?_". While during moments of "When Lambo?" add fuel to mania-fire by tweeting: 
