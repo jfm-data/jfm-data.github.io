@@ -6,33 +6,36 @@ date:   2021-05-24 21:21:21 +0530
 categories: tech
 ---
 
-Apologies to the religious folk insulted by my comparing religion -- I understand why you wouldn't
-want to be associated with a bunch of zealots who strongly believe in an abstract doctrine with poorly documented origins. Nevertheless, the similarities are just too hard to ignore. 
-- __There is the sacred text:__ the Satoshi White Paper
-- __Idolatry:__ BTC/USD
-- __Sacraments:__ Laser eyes on avi; 💎🙌, 
-- __Parables:__ Like the story of  ~~Judas'~~ Elon's betrayal
-- __Holy days of observance:__ Bitcoin Pizza Day 
-- __Preaching clergymen spreading the gospel:__ Saylor, Pomp, Wood (just to name a few).
+Apologies to the religious folk offended with what about I am to do... I understand why you wouldn't
+want to be compared to a bunch of zealots who believe in an abstract doctrine with poorly documented origins. Nevertheless, we are witnessing the greatest religious awaking since the Frontier Revival. There is still time to join the movement, but you first must understand it. 
 
-The clergy are crucial given their reach of influence. These high priests are invited on dying mediums to enlighten the pagans on how a devout commitment to Bitcoin is the only true salvation from the evils of "The Fed". They will also teach that BTC is digital gold more valuable than all real-world goods because of its ~~artificial~~ divine scarcity.
+__There is the..__
+- __Sacred text:__ the Satoshi White Paper
+- __Idolatry:__ USD/BTC
+- __Sacraments:__ Laser eyes on avi; 💎🙌, 
+- __Parables:__ i.e. story of  ~~Judas'~~ Elon's betrayal
+- __Holy days of observance:__ Bitcoin Pizza Day 
+- __Priests:__ Saylor, Pomp, Wood (just to name a few).
+- __Clergyman:__ The coal powered miners of the Chinese hinterlands
+
+It is imporant to familiarize yourself with the high priests given their reach of influence. These Ministers of the faith are often active as many mediums possible to enlighten the pagans on how a devout commitment to Bitcoin is the only true salvation from the evils of "The Fed". They will also preach how Bitcoin a is digital ~~currency~~ gold --  which is super valuable because of its ~~artificial~~ divine scarcity.
 
 To join the Bitcoin religion is not as simple as buying BTC on Coinbase. One must follow the strict dogma to be considered a member of the faith.
 The first rule is to recognize and accept Bitcoin for monotheistic worship.
 The communion's strength relies on followers having an undivided crypto wallet. Any dalliance with 'shitcoins' is flagrant heresy.  
 
-Secondly, you may only buy BTC and must __NEVER__ sell BTC. Never selling is a very sacred principle that when practiced, ascends your spiritual and physical being to the state of "HODLer". Even on your financial death bed, one must abide by the solemn act of HODLing, as helping restrict the supply of BTC is the most righteous offering a follower can make to the BTC/USD God.  
+Secondly, you may only buy BTC and must __NEVER__ sell BTC. Never selling is a very sacred principle that when practiced, ascends your spiritual and physical being to the state of "HODLer". Even on your financial death bed, one must abide by the solemn act of HODLing, as helping restrict the supply of BTC is the most righteous offering a follower can make to the USD/BTC God.  
 
 Thirdly, the religion does involve theology to mind -- A HODLer must be well-versed in all the main talking points:
 -  __Bitcoin is a revolutionary one-of-a-kind technology*__ (_*only to be used when the counterparty knows absolutely nothing about crypto or technology_) 
-- __~~It's a digital currency for peer-to-peer transactions of goods~~__ (_err, it's been 12 years and still no traction so maybe we can give up on that one_)  
+- __~~It's a digital currency for peer-to-peer transactions of goods~~__ (_err, it's been 12 years and still no traction volume, so maybe ignore that one_)  
 - __It's a store of value that is protected from the FED's inflation!*__ (_*just don't show them any chart with r2-value that reveals zero relationship between inflation and BTC price_)
-- __It can't be manipulated!*__ (_*this talking point becomes temporary invalid when a "dip" happens and we need to scapegoat an unfaithful Whale_). 
+- __It can't be manipulated!*__ (_*this talking point becomes temporary invalid when inside a "dip" and we need to scapegoat an unfaithful Whale_). 
 - __It's the Apex predator of the financial markets!__ (_just like MySpace was the apex predator of social networks_).
-You must also study the language of HODLers. HFSP, FUD, BTFD, REKT, Rug pull, and bag holder are necessary terms to understand. They help identify other members of the faith in ~~echo chambers~~ on social media and messageboards and spread the gospel. They are also very useful when it comes time to ratchet up the FOMO on the pagans -- or when to shame out of shitcoin considerations.
 
-Lastly, the greatest source of strength for the BTC/USD God comes from new members of the church, so there is an ordinance of evangelism. Twitter is preferred medium for missionary work, 
-so please please adorn your profile/bio with hierograms such as "#Bitcoin" and adding glowing red lights over your avatar's eyes.
+You must also study the language of HODLers. HFSP, FUD, BTFD, REKT, Rug pull, and bag holder are necessary terms to understand. They help identify other members of the faith ~~echo chambers~~ on social media and messageboards to spread the gospel. They are also very useful when it comes time to ratchet up the FOMO on the pagans -- or when to shame and LOL at the shitcoin "bag holders".
+
+Lastly, the greatest source of strength for the USD/BTC God comes from new members of the church, so there is an ordinance of evangelism. Twitter is preferred medium for missionary work so please please adorn your profile/bio with hierograms such as "#Bitcoin" and adding glowing red lights over your avatar's eyes.
 More devout members will amplify the creeds of our holy men by re-tweeting their irreconcilable truths.  In moments of FUD, look to tweet/retweet messages like 
 "_I'M NEVER SELLING!!_" or "_I just bought the dip, did you?_". While during moments of "When Lambo?" add fuel to mania-fire by tweeting: 
 "_And just imagine the price next year!!_" and of course the classic: "🚀🚀🚀".
