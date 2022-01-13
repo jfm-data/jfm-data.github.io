@@ -344,11 +344,11 @@ body {
 /* =Small screen *//*************************************************************/
   @media (max-width: 500px) {
     p, ul, ol, dl {
-      font-size: 123%;
+      font-size: 95%;
       line-height: 1.6; }
 
     .wrapper {
-      width: 90%;
+      width: 100%;
       margin: 15px auto; }
 
     .navigation,
@@ -453,8 +453,7 @@ body {
       font-size: 1.25em;
       list-style: none;
   }
+}
 /* =Glitch effect, Source: http://codepen.io/bulby97/pen/fcvay *//*************************************************************/
 
-  /* Custom */
-  .go-home {
-    text-align: center; }
+
