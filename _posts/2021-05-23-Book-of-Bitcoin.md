@@ -29,7 +29,7 @@ Thirdly, the religion involves some theology. A practicing HODLer is required to
 
 - __Bitcoin is a revolutionary one-of-a-kind technology__ (_*only to be used when the counterparty knows absolutely nothing about crypto or technology_)
 - __~~It's a digital currency for peer-to-peer transactions of goods~~__ (_err, it's been 12 years and still no traction volume, so maybe ignore that one_)
-- __It's a store of value that is protected from the FED's inflation!*__ (_*just don't show them any chart with r2-value that reveals zero relationship between inflation and BTC price_)
+- __It's a store of value that is protected from the FED's inflation!__ (_*just don't show them any chart with r2-value that reveals zero relationship between inflation and BTC price_)
 - __It can't be manipulated!__ (_*this talking point becomes temporary invalid when inside a "dip" and we need to scapegoat an unfaithful Whale_). 
 - __It's the Apex predator of the financial markets!__ (_just like MySpace was the apex predator of social networks_).
 
