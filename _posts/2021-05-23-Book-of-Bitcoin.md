@@ -26,11 +26,12 @@ The communion's strength relies on followers having an undivided crypto wallet. 
 Secondly, you may only buy BTC and must __NEVER__ sell BTC. Never selling is a very sacred principle that when practiced, ascends your spiritual and physical being to the Holy state of "HODLer". Even on your financial death bed, one must abide by the solemn act of HODLing, as helping restrict the supply of BTC is the most righteous offering a follower can make to the USD/BTC God.  
 
 Thirdly, the religion involves some theology. A practicing HODLer is required to be well-versed in the scripture:
--__Bitcoin is a revolutionary one-of-a-kind technology__ (_*only to be used when the counterparty knows absolutely nothing about crypto or technology_) 
--__~~It's a digital currency for peer-to-peer transactions of goods~~__ (_err, it's been 12 years and still no traction volume, so maybe ignore that one_)  
--__It's a store of value that is protected from the FED's inflation!*__ (_*just don't show them any chart with r2-value that reveals zero relationship between inflation and BTC price_)
--__It can't be manipulated!__ (_*this talking point becomes temporary invalid when inside a "dip" and we need to scapegoat an unfaithful Whale_). 
--__It's the Apex predator of the financial markets!__ (_just like MySpace was the apex predator of social networks_).
+
+- __Bitcoin is a revolutionary one-of-a-kind technology__ (_*only to be used when the counterparty knows absolutely nothing about crypto or technology_)
+- __~~It's a digital currency for peer-to-peer transactions of goods~~__ (_err, it's been 12 years and still no traction volume, so maybe ignore that one_)
+- __It's a store of value that is protected from the FED's inflation!*__ (_*just don't show them any chart with r2-value that reveals zero relationship between inflation and BTC price_)
+- __It can't be manipulated!__ (_*this talking point becomes temporary invalid when inside a "dip" and we need to scapegoat an unfaithful Whale_). 
+- __It's the Apex predator of the financial markets!__ (_just like MySpace was the apex predator of social networks_).
 
 You must also study the language of HODLers. HFSP, FUD, BTFD, REKT, Rug pull, and bag holder are necessary terms to understand. They help identify other members of the faith ~~echo chambers~~ on social media and messageboards to spread the gospel. They are also very useful when it comes time to ratchet up the FOMO on the pagans -- or when to shame and LOL at the shitcoin "bag holders".
 
@@ -39,4 +40,4 @@ More devout members will amplify the creeds of our holy men by re-tweeting their
 "_I'M NEVER SELLING!!_" or "_I just bought the dip, did you?_". While during moments of _"When Lambo?"_ add fuel to mania-fire by tweeting: 
 "_And just imagine the price next year!!_" and of course the classic: "🚀🚀🚀".
 
-Now that you know the doctrine, I will offer to baptize you with my Coinbase refereal code: #######. I suggest you get in now before the four horseman of the inflationarypocalypse arrive are you're left as a fiat bag holderr(👜👐). 
+Now that you know the doctrine, I will offer to baptize you with my Coinbase refereal code: #######. I suggest you get in now before the four horseman of the inflationarypocalypse arrive and you're left as a fiat bag holder(👜👐). 
