@@ -17,15 +17,15 @@ __There is the..__
 - __Priests:__ Saylor, Pomp, Wood (just to name a few).
 - __Clergyman:__ The coal powered miners of the Chinese hinterlands
 
-It is imporant to familiarize yourself with the high priests given their reach of influence. These Ministers of the faith will find any platform they can to enlighten the pagans on how a devout commitment to Bitcoin is the only true salvation from the evils of "The Fed". From them you will also learn how Bitcoin a is digital ~~currency~~ gold --  which is super valuable because of its ~~artificial~~ divine scarcity.
+It is imporant to familiarize yourself with the high priests given their reach of influence. These Ministers of the faith will find any platform they can to enlighten the pagans on how a devout commitment to Bitcoin is the only true salvation from the evils of "The Fed". From them you will also learn how Bitcoin is digital ~~currency~~ gold~~ that is super valuable due to its artificial divine scarcity.
 
 To join the Bitcoin religion is not as simple as buying BTC on Coinbase. One must follow the strict dogma to be considered a member of the faith.
 The first rule is to recognize and accept Bitcoin for monotheistic worship.
 The communion's strength relies on followers having an undivided crypto wallet. Any dalliance with 'shitcoins' is flagrant heresy.  
 
-Secondly, you may only buy BTC and must __NEVER__ sell BTC. Never selling is a very sacred principle that when practiced, ascends your spiritual and physical being to the state of "HODLer". Even on your financial death bed, one must abide by the solemn act of HODLing, as helping restrict the supply of BTC is the most righteous offering a follower can make to the USD/BTC God.  
+Secondly, you may only buy BTC and must __NEVER__ sell BTC. Never selling is a very sacred principle that when practiced, ascends your spiritual and physical being to the Holy state of "HODLer". Even on your financial death bed, one must abide by the solemn act of HODLing, as helping restrict the supply of BTC is the most righteous offering a follower can make to the USD/BTC God.  
 
-Thirdly, the religion does involve theology to mind -- A HODLer must be well-versed in all the main talking points:
+Thirdly, the religion involves some theology. A practicing HODLer is required to be well-versed in the scripture:
 -__Bitcoin is a revolutionary one-of-a-kind technology__ (_*only to be used when the counterparty knows absolutely nothing about crypto or technology_) 
 -__~~It's a digital currency for peer-to-peer transactions of goods~~__ (_err, it's been 12 years and still no traction volume, so maybe ignore that one_)  
 -__It's a store of value that is protected from the FED's inflation!*__ (_*just don't show them any chart with r2-value that reveals zero relationship between inflation and BTC price_)
@@ -39,4 +39,4 @@ More devout members will amplify the creeds of our holy men by re-tweeting their
 "_I'M NEVER SELLING!!_" or "_I just bought the dip, did you?_". While during moments of "When Lambo?" add fuel to mania-fire by tweeting: 
 "_And just imagine the price next year!!_" and of course the classic: "🚀🚀🚀".
 
-Now that you know the doctrine, I will offer to baptize you with my Coinbase refereal code: #######. I suggest you get in now before you become the bag holder(👜👐). 
+Now that you know the doctrine, I will offer to baptize you with my Coinbase refereal code: #######. I suggest you get in now before the four horseman of the inflationarypocalypse arrive are you're left as a fiat bag holderr(👜👐). 
