@@ -16,6 +16,16 @@
   --header-bg: #fff;
 }
 
+
+.top-container {
+  background-image: url(background-image: url(https://wallpapercave.com/wp/J3uThO5.jpg);
+    background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100%;
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
 /* =Base *//*************************************************************/
 body {
   font-family: "DM Sans", sans-serif;
