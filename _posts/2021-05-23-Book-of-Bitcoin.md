@@ -6,8 +6,7 @@ date:   2021-05-24 21:21:21 +0530
 categories: tech
 ---
 
-Apologies to the religious folk offended with what about I am to do... I understand why you wouldn't
-want to be compared to a bunch of zealots who believe in an abstract doctrine with poorly documented origins. Nevertheless, we are witnessing the greatest religious awaking since the Frontier Revival. There is still time to join the movement, but you first must understand it. 
+Apologies to the religious folk offended with what about I am to do... I understand why you wouldn't want to be compared to a bunch of zealots who believe in an abstract doctrine with poorly documented origins. Nevertheless, we are witnessing the greatest religious awaking since the Frontier Revival. If you wish to join the movement you must first understand it.
 
 __There is the..__
 - __Sacred text:__ the Satoshi White Paper
@@ -27,11 +26,11 @@ The communion's strength relies on followers having an undivided crypto wallet. 
 Secondly, you may only buy BTC and must __NEVER__ sell BTC. Never selling is a very sacred principle that when practiced, ascends your spiritual and physical being to the state of "HODLer". Even on your financial death bed, one must abide by the solemn act of HODLing, as helping restrict the supply of BTC is the most righteous offering a follower can make to the USD/BTC God.  
 
 Thirdly, the religion does involve theology to mind -- A HODLer must be well-versed in all the main talking points:
--  __Bitcoin is a revolutionary one-of-a-kind technology*__ (_*only to be used when the counterparty knows absolutely nothing about crypto or technology_) 
-- __~~It's a digital currency for peer-to-peer transactions of goods~~__ (_err, it's been 12 years and still no traction volume, so maybe ignore that one_)  
-- __It's a store of value that is protected from the FED's inflation!*__ (_*just don't show them any chart with r2-value that reveals zero relationship between inflation and BTC price_)
-- __It can't be manipulated!*__ (_*this talking point becomes temporary invalid when inside a "dip" and we need to scapegoat an unfaithful Whale_). 
-- __It's the Apex predator of the financial markets!__ (_just like MySpace was the apex predator of social networks_).
+-__Bitcoin is a revolutionary one-of-a-kind technology__ (_*only to be used when the counterparty knows absolutely nothing about crypto or technology_) 
+-__~~It's a digital currency for peer-to-peer transactions of goods~~__ (_err, it's been 12 years and still no traction volume, so maybe ignore that one_)  
+-__It's a store of value that is protected from the FED's inflation!*__ (_*just don't show them any chart with r2-value that reveals zero relationship between inflation and BTC price_)
+-__It can't be manipulated!__ (_*this talking point becomes temporary invalid when inside a "dip" and we need to scapegoat an unfaithful Whale_). 
+-__It's the Apex predator of the financial markets!__ (_just like MySpace was the apex predator of social networks_).
 
 You must also study the language of HODLers. HFSP, FUD, BTFD, REKT, Rug pull, and bag holder are necessary terms to understand. They help identify other members of the faith ~~echo chambers~~ on social media and messageboards to spread the gospel. They are also very useful when it comes time to ratchet up the FOMO on the pagans -- or when to shame and LOL at the shitcoin "bag holders".
 
