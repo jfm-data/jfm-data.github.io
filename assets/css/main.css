@@ -187,6 +187,11 @@ body {
 	.header-navigation button {
 		display: none;
 	}
+	    .responsive-wrapper {
+  		width: 100%;
+  		max-width: 1150px;
+
+}
 }
   
 
@@ -268,7 +273,7 @@ body {
 }
   .page-title__date {
     font-weight: 300;
-    font-size: 40%;
+    font-size: 50%;
     color: #828282;
 
   }
@@ -361,7 +366,16 @@ body {
 
     .wrapper {
       width: 100%;
-      margin: 15px auto; }
+      margin: 15px auto; 
+	  }
+    .responsive-wrapper {
+  	  width: 100%;
+  	  margin-left: auto;
+  	  margin-right: auto;
+}
+    .widget{
+      padding: 1.3rem;
+      }
 
     .navigation,
     .social-links {
