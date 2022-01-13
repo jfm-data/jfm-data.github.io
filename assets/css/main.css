@@ -109,6 +109,7 @@ body {
   border: 0;
   background-color: transparent;
   padding: 0;
+  marigin-right: 1.3rem;
 }
 
 .header-navigation a:hover:after,
