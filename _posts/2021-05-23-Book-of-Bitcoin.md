@@ -17,7 +17,7 @@ __There is the..__
 - __Priests:__ Saylor, Pomp, Wood (just to name a few).
 - __Clergyman:__ The coal powered miners of the Chinese hinterlands
 
-It is imporant to familiarize yourself with the high priests given their reach of influence. These Ministers of the faith will find any platform they can to enlighten the pagans on how a devout commitment to Bitcoin is the only true salvation from the evils of "The Fed". From them you will also learn how Bitcoin is digital ~~currency~~ gold~~ that is super valuable due to its artificial divine scarcity.
+It is imporant to familiarize yourself with the high priests given their reach of influence. These Ministers of the faith will find any platform they can to enlighten the pagans on how a devout commitment to Bitcoin is the only true salvation from the evils of "The Fed". From them you will also learn how Bitcoin is digital ~~currency~~ gold that is super valuable due to its artificial divine scarcity.
 
 To join the Bitcoin religion is not as simple as buying BTC on Coinbase. One must follow the strict dogma to be considered a member of the faith.
 The first rule is to recognize and accept Bitcoin for monotheistic worship.
@@ -35,9 +35,11 @@ Thirdly, the religion involves some theology. A practicing HODLer is required to
 
 You must also study the language of HODLers. HFSP, FUD, BTFD, REKT, Rug pull, and bag holder are necessary terms to understand. They help identify other members of the faith ~~echo chambers~~ on social media and messageboards to spread the gospel. They are also very useful when it comes time to ratchet up the FOMO on the pagans -- or when to shame and LOL at the shitcoin "bag holders".
 
-Lastly, the greatest source of strength for the USD/BTC God comes from new members of the church, so there is an ordinance of evangelism. Twitter is the preferred medium for missionary work so please please adorn your profile/bio with hierograms such as "#Bitcoin" and adding glowing red lights over your avatar's eyes.
+Lastly, so there is an ordinance of evangelism as the greatest source of strength for the USD/BTC God comes from new members ~~bidding up the price~~ joining the church. Twitter is the preferred medium for missionary work so please please adorn your profile/bio with hierograms such as "#Bitcoin" and adding glowing red lights over your avatar's eyes.
 More devout members will amplify the creeds of our holy men by re-tweeting their irreconcilable truths.  In moments of FUD, look to tweet/retweet messages like 
-"_I'M NEVER SELLING!!_" or "_I just bought the dip, did you?_". While during moments of _"When Lambo?"_ add fuel to mania-fire by tweeting: 
+`"_I'M NEVER SELLING!!_"` or "_I just bought the dip, did you?_". While during moments of _"When Lambo?"_, add fuel to fire by tweeting: 
 "_And just imagine the price next year!!_" and of course the classic: "🚀🚀🚀".
 
-Now that you know the doctrine, I will offer to baptize you with my Coinbase refereal code: #######. I suggest you get in now before the four horseman of the inflationarypocalypse arrive and you're left as a fiat bag holder(👜👐). 
+Now that you know the doctrine, I will offer to baptize you with my Coinbase refereal code: #######. I suggest you get in now before the four horseman of the inflationarypocalypse arrive and you're left as a fiat bag holder👜👐 --😉. 
+
+
