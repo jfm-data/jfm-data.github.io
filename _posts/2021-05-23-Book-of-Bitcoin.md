@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "The Book of Bitcoin"
-subtitle: "How to Join the World's Fastest Growing Religion"
+subtitle: "How to Join the World's Fastest-Growing Religion"
 date:   2021-05-24 21:21:21 +0530
 categories: tech
 ---
 
-Apologies to the religious folk offended with what about I am to do... I understand why you wouldn't want to be compared to a bunch of zealots who believe in an abstract doctrine with poorly documented origins. Nevertheless, we are witnessing the greatest religious awaking since the Frontier Revival. If you wish to join the movement you must first understand it.
+Apologies to the religious folk offended with what about I am to do... I understand why you wouldn't want to be compared to a bunch of zealots who believe in an abstract doctrine with poorly documented origins. Nevertheless, we are witnessing the greatest religious awaking since the Frontier Revival. If you wish to join the movement you must first understand it. So for the lapsed Christians reading, I have outlined the associations to help ease your tranistion.
 
-__There is the..__
+There is the..
 - __Sacred text:__ the Satoshi White Paper
 - __Idolatry:__ USD/BTC
 - __Sacraments:__ Laser eyes on avi; 💎🙌, 
@@ -37,7 +37,7 @@ You must also study the language of HODLers. HFSP, FUD, BTFD, REKT, Rug pull, an
 
 Lastly, so there is an ordinance of evangelism as the greatest source of strength for the USD/BTC God comes from new members ~~bidding up the price~~ joining the church. Twitter is the preferred medium for missionary work so please please adorn your profile/bio with hierograms such as "#Bitcoin" and adding glowing red lights over your avatar's eyes.
 More devout members will amplify the creeds of our holy men by re-tweeting their irreconcilable truths.  In moments of FUD, look to tweet/retweet messages like 
-`"_I'M NEVER SELLING!!_"` or "_I just bought the dip, did you?_". While during moments of _"When Lambo?"_, add fuel to fire by tweeting: 
+`"I'M NEVER SELLING!!!"` or "_I just bought the dip, did you?_". While during moments of _"When Lambo?"_, add fuel to fire by tweeting: 
 "_And just imagine the price next year!!_" and of course the classic: "🚀🚀🚀".
 
 Now that you know the doctrine, I will offer to baptize you with my Coinbase refereal code: #######. I suggest you get in now before the four horseman of the inflationarypocalypse arrive and you're left as a fiat bag holder👜👐 --😉. 
