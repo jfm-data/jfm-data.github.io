@@ -8,14 +8,14 @@ categories: tech
 
 Apologies to the religious folk offended with what about I am to do... I understand why you wouldn't want to be compared to a bunch of zealots who believe in an abstract doctrine with poorly documented origins. Nevertheless, we are witnessing the greatest religious awaking since the Frontier Revival. 
 
-In order to join the movement you must first understand it. So for the lapsed Christians reading, I have outlined some associations to help ease your tranistion. There is the..
+In order to join the movement you must first understand it. So for the lapsed Christians reading, I have outlined some associations to help ease your tranistion. There is the...
 
 - __Sacred text:__ The Satoshi White Paper
 - __Idolatry:__ USD/BTC
 - __Sacraments:__ Genuflect to ₿, 💎🙌
 - __Holy days of observance:__ Bitcoin Pizza Day  
 - __Priests:__ Saylor, Pomp, Wood (just to name a few).
-- __Clergyman:__ The coal powered Bitcoin miners of the Chinese hinterlands
+- __Monks:__ The coal powered Bitcoin miners of the Chinese hinterlands
 - __Parables:__ i.e. story of Elon's betrayal (aka, Judas)
 
 It is imporant to familiarize yourself with the high priests given their reach of influence. These Ministers of the faith will find any platform they can to enlighten the pagans on how a devout commitment to Bitcoin is the only true salvation from the evils of "The Fed". From them you will learn how Bitcoin is digital ~~currency~~ gold that is super valuable due to its ~~artificial~~ divine scarcity.
