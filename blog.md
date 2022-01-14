@@ -10,7 +10,8 @@ subtitle: Some shared thoughts...
 <h4 class="post-teaser__month">
 <code>
 {% if category.name %} 
-{{ category.name }} - - - - - - - - - - 
+{{ category.name }}
+  ---
 {% else %} 
 {{ Print }} 
 {% endif %}
