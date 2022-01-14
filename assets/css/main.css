@@ -281,26 +281,27 @@ body {
   }
 
 /* =Post teasers *//*************************************************************/
-  .list-posts {
+  .blog-posts {
     list-style-type: none;
-    padding: 0px; }
+    padding: 0px;
+    margin: 0px;}
+  .blog-posts__title {
+    font-size: 125%;
+    font-weight: 600;
+    color: #757575;
+    margin-bottom: -20px;
+}
+  .blog-posts__subtitle {
+    font-size: 90%;
+    font-weight: 400;
+    color: #828282;
+    margin-bottom: -10px;}
+  .blog-posts__date {
+    font-weight: 300;
+    font-size: 60%;
+    color: #828282;
+    margin-bottom: 0px;
 
-  .post-teaser {
-    margin-bottom: 15px;
-    font-weight: 700; }
-
-  .post-teaser__title {
-    font-size: 100%;
-    color: #828282; }
-
-  .post-teaser__date {
-    font-size: 100%;
-    float: right;
-    vertical-align: middle;
-    color: #828282; }
-
-  .post-teaser__month {
-    width: 100%;
   }
 
   .empty-post-list {
