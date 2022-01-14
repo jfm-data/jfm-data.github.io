@@ -12,11 +12,11 @@ subtitle: Some shared thoughts...
 {% if category.name %} 
 {{ category.name }}
 </code>
- ---
+ 
 {% else %} 
 {{ Print }} 
 {% endif %}
-
+---
 </h4>
 <ul class="blog-posts">
 {% for post in category.items %}
