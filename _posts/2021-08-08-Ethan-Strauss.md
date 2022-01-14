@@ -8,7 +8,7 @@ categories: basketball
 
 TL:DR -- FS1 IMHO, jump below to see reasons why
 
-In mid-July I noticed I Ethan Strauss stopped publishing articles at The Athletic. I missed his writing, not only
+In mid-July I noticed Ethan Strauss stopped publishing articles at The Athletic. I missed his writing, not only
 were business side of basketball columns interesting, but he's also an uber talented writer. 
 I became a fan after his 2016 exposé on [how Nike had lost Steph Curry to UA](https://www.espn.com/nba/story/_/id/15047018/how-nike-lost-stephen-curry-armour). It was an original perspective of how the NBA is the battleground for a proxy war
 happening between Nike, Adidas, and Under Armour. The article framed how the sneaker companies relationships with the top 1% of players were more important than their NBA team. Given the obvious financial incentives, Ethan raised the provocative question:so who are they really working for? It was something to ponder and may inform some player movement in the NBA....which led into his next massive story.
