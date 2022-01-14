@@ -16,13 +16,13 @@ subtitle: Some shared thoughts...
 {% endif %}
 </code>
 </h4>
-<ul class="list-posts">
+<ul class="blog-posts">
 {% for post in category.items %}
-<li class="post-teaser">
+<li class="blog-posts">
 <a href="{{ post.url | prepend: site.baseurl }}">
-<span class="post-teaser__title">{{ post.title }}</span>
-<span class="post-teaser__title">{{ post.subtitle }}</span>
-<span class="post-teaser__date">{{ post.date | date: "%B %d %Y" }}</span>
+<p class="blog-posts__title">{{ post.title }}</p>
+<p class="blog-posts__subtitle">{{ post.subtitle }}</p>
+<p class="blog-posts__date">{{ post.date | date: "%B %d %Y" }}</p
 </a>
 </li>
 {% endfor %}
