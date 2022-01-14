@@ -260,22 +260,23 @@ body {
 /* =Titles *//*************************************************************/
   .page-title {
     margin: 30px auto;
-    text-align: center; }
+}
 
   .page-title__text {
     font-weight: 700;
-    font-size: 150%;
+    font-size: 140%;
 }
 
   .page-title__subtitle {
-    font-weight: 400;
-    font-size: 75%;
+    font-weight: 500;
+    font-size: 65%;
     color: #828282; 
 }
   .page-title__date {
     font-weight: 300;
     font-size: 50%;
     color: #828282;
+    margin-top: 10px;
 
   }
 
