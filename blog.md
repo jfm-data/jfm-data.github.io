@@ -1,7 +1,7 @@
 ---
 layout: page
-title: all posts
-subtitle: Some select shared thoughts
+title: All Posts
+subtitle: Some shared thoughts...
 ---
 
 <div>
@@ -10,7 +10,7 @@ subtitle: Some select shared thoughts
 <h4 class="post-teaser__month">
 <strong>
 {% if category.name %} 
-- - - - -  {{ category.name }} - - - - - 
+{{ category.name }} - - - - - - - - - - 
 {% else %} 
 {{ Print }} 
 {% endif %}
@@ -21,7 +21,7 @@ subtitle: Some select shared thoughts
 <li class="post-teaser">
 <a href="{{ post.url | prepend: site.baseurl }}">
 <span class="post-teaser__title">{{ post.title }}</span>
-<span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>
+<span class="post-teaser__date">{{ post.date | date: "%B %d %Y" }}</span>
 </a>
 </li>
 {% endfor %}
