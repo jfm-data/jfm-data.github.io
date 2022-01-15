@@ -19,8 +19,7 @@ subtitle: Some shared thoughts...
 {% endif %}
 
 </h4>
-<hr>
- 
+
 <ul class="blog-posts">
 {% for post in category.items %}
 <li class="blog-posts">
@@ -32,5 +31,7 @@ subtitle: Some shared thoughts...
 </li>
 {% endfor %}
 </ul>
+ <hr>
+ 
 {% endfor %}
 </div>
