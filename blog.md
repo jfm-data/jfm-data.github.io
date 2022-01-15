@@ -24,7 +24,7 @@ subtitle: Some shared thoughts...
 <a href="{{ post.url | prepend: site.baseurl }}">
 <p class="blog-posts__title">{{ post.title }}</p>
 <p class="blog-posts__subtitle">{{ post.subtitle }}</p>
-<p class="blog-posts__date">{{ post.date | date: "%B %d %Y" }}</p
+ <p class="blog-posts__date">{{ post.date | date: "%B %d %Y" }}</p>
 </a>
 </li>
 {% endfor %}
