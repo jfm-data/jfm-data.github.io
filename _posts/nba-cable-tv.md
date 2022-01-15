@@ -1,3 +1,12 @@
+---
+layout: page
+title: The NBA's Doomed Cable TV Marriage
+subtitle: Speak Your Mind
+date:   2022-01-14 21:21:21 +0530
+categories: basketball
+
+---
+
 I have a theory that the NBA’s popularity is much more closely tied with TV aspects than is considered by basketball media. I derive the theory from the wave TV viewership
 over the last four decades and how watchable the non-game aspects as an entertainment product. The NBA’s rise in the 80s and 90s coincided with advancing video production
 technology that made the game much more entertaining on TV. The introduction of sideline cameras, the sharpness of the players on the screen, and the slow-motion replay made
