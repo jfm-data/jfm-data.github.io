@@ -8,6 +8,7 @@ subtitle: Some shared thoughts...
 {% assign postsCategory = site.posts | group_by_exp:"post", "post.categories"  %}
 {% for category in postsCategory %}
 <h4 class="post-teaser__month">
+ //
 <code>
 {% if category.name %} 
 {{ category.name }}
@@ -16,8 +17,10 @@ subtitle: Some shared thoughts...
 {% else %} 
 {{ Print }} 
 {% endif %}
----
+
 </h4>
+<hr>
+ 
 <ul class="blog-posts">
 {% for post in category.items %}
 <li class="blog-posts">
