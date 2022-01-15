@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The NBA's Doomed Cable TV Marriage
-subtitle: Speak Your Mind
+subtitle: Stay Together for the Cash
 date:   2022-01-14 21:21:21 +0530
 categories: basketball
 
