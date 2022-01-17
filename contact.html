@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html class lang= "en">
 <head>
+ <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101350331ns.gif" />
 <script async src="//static.getclicky.com/101350331.js"></script>
 
  <title> Contact </title>
@@ -59,7 +60,28 @@ input[type=submit]:hover {
 
 }
 
+button {
+        display: block;
+        width: 100%;
+        background: #fff;
+        border-radius: 4px;
+        padding: 5px 10px;
+        border: green;
+        color: white;
+		      font-family:inherit;
+        font-size: 16px; 
+  		padding: 7px ;
+        font-weight: 700;
+        background: #003b0a;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+        transition: .5s ease all;
+        cursor: pointer;
+        overflow: visible;}
+button:hover {
+        	background-color: #67bf14;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 
+}
 
 
 </style>
@@ -102,20 +124,20 @@ input[type=submit]:hover {
   <form action="https://formspree.io/f/mnqlnoaa" method="post">
 
     <label for="fname">Email</label>
-    <input type="email" name="_replyto" placeholder="Your @email" required>
+    <input type="email" name="_replyto" placeholder="your@email.com" required>
 
     <label for="subject">Subject</label>
         <select type="text" id="subject" name="_subject" placeholder="Contact request from personal website">
-      		<option value="Defiant Data Blog Message">Blog</option>
-      		<option value="Definant Data Business Message">Business</option>
-      		<option value="Defiant Data Other Message">Other</option>
+      		<option value="defiantdata Blog Message">Blog</option>
+      		<option value="defiantdata Business Message">Business</option>
+      		<option value="defiantdata Other Message">Other</option>
       	</select>
 
 
     <label for="message">Message</label>
-    <textarea id="subject" name="subject" placeholder="What's up?.." style="height:200px" required></textarea>
+    <textarea id="subject" name="subject" placeholder="What's up?" style="height:200px" required></textarea>
 
-    <input type="submit" value="Submit">
+    <button type="submit">Send</button>
   </form>
 </div>
 <script>
