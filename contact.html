@@ -17,6 +17,7 @@ body {font-family: "DM Sans", sans-serif;}
 input[type=email], select, textarea {
   width: 100%;
   padding: 12px;
+  background-color: #fcfcfc;
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
@@ -28,6 +29,7 @@ input[type=email], select, textarea {
 input[type=text], select, textarea {
   width: 100%;
   padding: 12px;
+  background-color: #fcfcfc;
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
@@ -79,10 +81,53 @@ button {
         cursor: pointer;
         overflow: visible;}
 button:hover {
-        	background-color: #67bf14;
-            box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+        background-color: #67bf14;
+        box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.dropbtn {
+  background-color: none;
+  color: inherit;
+  padding: inherit;
+  font: inherit;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #fff;
 
 }
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  scroll: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  width: 100%;
+
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  float:right;
+  text-align: right;
+}
+
+.dropdown-content a {
+  display: block;
+  color: black;
+  padding: 12px 10px;
+  text-decoration: none;
+  display: block;
+  float: right;
+}
+
+.dropdown a:hover {background-color: #ddd;}
+
+.show {display: block;}
 
 
 </style>
@@ -103,7 +148,15 @@ button:hover {
       <a href="/">About</a>
       <a href="/blog">Blog</a>
       <a href="/#Contact">Contact</a>
-      <button>Menu</button>
+	<div class="dropdown">
+ 		<button onclick="myFunction()" class="dropbtn"> Menu</button>
+  		<div id="myDropdown" class="dropdown-content">
+    			<a href="/blog">Home</a>
+    			<a href="/">About</a>
+    			<a href="/blog">Blog</a>    
+    			<a href="/contact">Contact</a>
+  		</div>
+  	</div>
     </nav>
   </div>
 </header>
@@ -141,6 +194,27 @@ button:hover {
     <button type="submit">Send</button>
   </form>
 </div>
+<scipt>
+	<script>
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
+	
 <script>
 window.onscroll = function() {
   growShrinkLogo()
