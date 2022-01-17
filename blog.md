@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Personal Blog
-subtitle: Some shared thoughts...
+subtitle: Some shared thoughts
 ---
 
 <div>
