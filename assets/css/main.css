@@ -74,6 +74,7 @@ body {
 }
 
 /* Styling of other elements *//***************/
+
 .header-logo img {
   display: block;
   overflow: visable;
@@ -130,6 +131,52 @@ body {
   bottom: -2px;
   left: 0;
 }  
+
+.dropbtn {
+  background-color: none;
+  color: inherit;
+  padding: inherit;
+  font: inherit;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #fff;
+
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  scroll: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  width: 100%;
+
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  float:right;
+  text-align: right;
+}
+
+.dropdown-content a {
+  display: block;
+  color: black;
+  padding: 12px 10px;
+  text-decoration: none;
+  display: block;
+  float: right;
+}
+
+.dropdown a:hover {background-color: #ddd;}
+
+.show {display: block;}
+
 
 /* =Base *//*************************************************************/
 .main {
