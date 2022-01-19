@@ -18,7 +18,9 @@ In order to join the movement you must first understand it. So for the lapsed Ch
 - __Monks:__ The coal powered Bitcoin miners of the Chinese hinterlands
 - __Parables:__ i.e. story of Elon's betrayal (aka, Judas)
 
-It is imporant to familiarize yourself with the high priests given their reach of influence. These Ministers of the faith will find any platform they can to enlighten the pagans on how a devout commitment to Bitcoin is the only true salvation from the evils of "The Fed". From them you will learn how Bitcoin is digital ~~currency~~ gold that is super valuable due to its ~~artificial~~ divine scarcity.
+It is imporant to familiarize yourself with the high priests given their reach of influence. These Ministers of the faith will find any platform they can to enlighten the pagans on how a devout commitment to Bitcoin is the only true salvation from the evils of "The Fed". From them you will learn how Bitcoin is a digital ~~currency~~ gold that is super valuable because of its ~~artificial~~ divine scarcity.
+
+## Joining 
 
 To join the Bitcoin religion is not as simple as buying BTC on Coinbase. One must follow the strict dogma to be considered a member of the faith.
 The first rule is to recognize and accept Bitcoin for monotheistic worship.
@@ -34,7 +36,7 @@ Thirdly, the religion involves some theology. A practicing HODLer is required to
 - __It can't be manipulated!__ (_*this talking point becomes temporary invalid when inside a "dip" and the preisthood has to scapegoat an unfaithful Whale_). 
 - __It's the Apex predator of the financial markets!__ (_just like MySpace was the apex predator of social networks_).
 
-You must also study the language of HODLers. HFSP, FUD, BTFD, REKT, Rug pull, and bag holder are necessary terms to understand. They help identify other members of the faith ~~echo chambers~~ on social media and useful when spreading the gospel. They are partwhen it comes time to ratchet up the FOMO on the pagans -- or when to shame and LOL at the shitcoin "bag holders".
+You must also study the language of HODLers. HFSP, FUD, BTFD, REKT, Rug pull, and bag holder are necessary terms to understand. They help identify other members of the faith on ~~echo chambers~~ social media and useful when spreading the gospel. They are useful when its time to ratchet up the FOMO on the pagans, or when to shame and LOL at the shitcoin "bag holders".
 
 Lastly, so there is an ordinance of evangelism as the greatest source of strength for the USD/BTC God comes from new members ~~bidding up the price~~ joining the church. Twitter is the preferred medium for missionary work so please please adorn your profile/bio with hierograms such as "#Bitcoin" and adding glowing red lights over your avatar's eyes.
 More devout members will amplify the creeds of our holy men by re-tweeting their irreconcilable truths.  In moments of FUD, look to tweet/retweet messages like 
