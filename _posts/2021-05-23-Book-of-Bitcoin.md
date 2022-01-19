@@ -20,13 +20,14 @@ In order to join the movement you must first understand it. So for the lapsed Ch
 
 It is imporant to familiarize yourself with the high priests given their reach of influence. These Ministers of the faith will find any platform they can to enlighten the pagans on how a devout commitment to Bitcoin is the only true salvation from the evils of "The Fed". From them you will learn how Bitcoin is a digital ~~currency~~ gold that is super valuable because of its ~~artificial~~ divine scarcity.
 
-## Joining 
+## Joining:
+---
 
 To join the Bitcoin religion is not as simple as buying BTC on Coinbase. One must follow the strict dogma to be considered a member of the faith.
 The first rule is to recognize and accept Bitcoin for monotheistic worship.
 The communion's strength relies on followers having an undivided crypto wallet. Any dalliance with 'shitcoins' is flagrant heresy.  
 
-Secondly, you may only buy BTC and must __NEVER__ sell BTC. Never selling is a very sacred principle that when practiced, ascends your spiritual and physical being to the devine state of "HODLer". Even on your financial death bed, one must abide by the solemn act of HODLing, as helping restrict the supply of BTC is the most righteous offering a follower can make to the USD/BTC God.  
+Secondly, you may only buy Bitcoin and must __NEVER__ sell Bitcoin. Never selling is a very sacred principle that when practiced, ascends your spiritual and physical being to the devine state of "HODLer". Even on your financial death bed one must abide by the solemn act of HODLing, as helping restrict the supply of BTC is the most righteous offering a follower can make to the USD/BTC God.  
 
 Thirdly, the religion involves some theology. A practicing HODLer is required to be well-versed in the scripture:
 
