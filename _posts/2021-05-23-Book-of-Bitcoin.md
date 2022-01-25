@@ -18,7 +18,7 @@ In order to join the movement you must first understand it. So for the lapsed Ch
 - __Monks:__ The coal powered Bitcoin miners of the Chinese hinterlands
 - __Parables:__ i.e. story of Elon's betrayal (aka, Judas)
 
-It is imporant to familiarize yourself with the high priests given their reach of influence. These Ministers of the faith will find any platform they can to enlighten the pagans on how a devout commitment to Bitcoin is the only true salvation from the evils of "The Fed". From them you will learn how Bitcoin is a digital ~~currency~~ gold that is super valuable because of its ~~artificial~~ divine scarcity.
+It is imporant to familiarize yourself with the high priests given their reach of influence. These Ministers of the faith will find any platform they can to enlighten the pagans on how a devout commitment to Bitcoin is the only true salvation from the evils of "The Fed". From them you will learn how Bitcoin is a digital ~~currency~~ gold that is super valuable because of its ~~manufactured~~ divine scarcity.
 
 ## Joining:
 ---
