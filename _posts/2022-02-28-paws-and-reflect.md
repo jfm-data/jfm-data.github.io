@@ -11,7 +11,7 @@ So I recently dealt with a health scare with my dog, Hunter. He's not clear of l
 I thought I might lose him. The situation made me reflect on dog ownership and my connection with him.
 
 <p align="center">
-  <img align="center" src="https://jfm-data.github.io/images/Hunter.jpg" style="max-height: 10%; max-width: 10%;">
+  <img align="center" src="https://jfm-data.github.io/images/Hunter.jpg" style="max-height: 90%; max-width: 90%;">
 </p> 
 
 
@@ -29,7 +29,7 @@ Of course, there is a flip side of his canny. It's hard to sneak out or have a b
   
   
 <p align="center">
-  <img align="center" src="https://jfm-data.github.io/images/hunter2.jpeg" style="max-height: 10%; max-width: 10%;">
+  <img align="center" src="https://jfm-data.github.io/images/hunter2.jpeg" style="max-height: 90%; max-width: 90%;">
 </p> 
 
 
@@ -39,5 +39,5 @@ My relationship with him is special. He's not my "fur baby" nor am I his "father
 I am grateful for his presence in my life and I will do what's necessary to keep him happy and healthy. 
 
 <p align="center">
-  <img align="center" src="https://jfm-data.github.io/images/hunter3.jpeg" style="max-height: 50%; max-width: 50%;">
+  <img align="center" src="https://jfm-data.github.io/images/hunter3.jpeg" style="max-height: 70%; max-width: 70%;">
 </p> 
