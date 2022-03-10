@@ -34,6 +34,6 @@ Of course, there is a flip side of his canny. It's hard to sneak out or have a b
 
 
 My relationship with him is special. He's not my "fur baby" nor am I his "father", but I am his best buddy. Dogs are the most unselfish friends that a man can
-  have in this selfish world. He never proves ungrateful or treacherous, and his most elated when I return home. When riches take wings and reputation falls to pieces, his affection is as constant as the moon orbiting the earth.
+  have in this selfish world. He never proves ungrateful or treacherous, and he is most elated when I return home -- even if I was gone for only 10 minutes. His affection is the most constant. 
 
 I am grateful for his presence in my life and I will do what's necessary to keep him happy and healthy. 
