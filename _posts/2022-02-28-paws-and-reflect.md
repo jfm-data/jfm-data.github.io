@@ -29,7 +29,7 @@ Of course, there is a flip side of his canny. It's hard to sneak out or have a b
   
   
 <p align="center">
-  <img align="center" src="https://jfm-data.github.io/images/Hunter2.jpg">
+  <img align="center" src="https://jfm-data.github.io/images/hunter2.jpg">
 </p> 
 
 
@@ -37,3 +37,7 @@ My relationship with him is special. He's not my "fur baby" nor am I his "father
   have in this selfish world. He never proves ungrateful or treacherous, and he is most elated when I return home -- even if I was gone for only 10 minutes. His affection is the most constant. 
 
 I am grateful for his presence in my life and I will do what's necessary to keep him happy and healthy. 
+
+<p align="center">
+  <img align="center" src="https://jfm-data.github.io/images/hunter2.jpg">
+</p> 
