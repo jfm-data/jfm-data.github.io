@@ -29,7 +29,7 @@ Of course, there is a flip side of his canny. It's hard to sneak out or have a b
   
   
 <p align="center">
-  <img align="center" src="https://jfm-data.github.io/images/hunter2.jpg">
+  <img align="center" src="https://jfm-data.github.io/images/hunter2.jpeg">
 </p> 
 
 
@@ -39,5 +39,5 @@ My relationship with him is special. He's not my "fur baby" nor am I his "father
 I am grateful for his presence in my life and I will do what's necessary to keep him happy and healthy. 
 
 <p align="center">
-  <img align="center" src="https://jfm-data.github.io/images/hunter3.jpg">
+  <img align="center" src="https://jfm-data.github.io/images/hunter3.jpeg">
 </p> 
