@@ -17,10 +17,7 @@ reading. The one circulating through my mind right now is the riddle that Varys 
 >  says the king, ‘for I am your lawful ruler.’ ‘Do it,’ says the priest, ‘for I command you in the names of the gods.’
 >   ‘Do it,’ says the rich man, ‘and all this gold shall be yours.’ So tell me – who lives and who dies?”
 
-“In a room sit three great men, a king, a priest, and a rich man with his gold. Between them stands a sellsword, a 
-little man of common birth and no great mind. Each of the great ones bids him slay the other two. ‘Do it,’ says the king, 
-‘for I am your lawful ruler.’ ‘Do it,’ says the priest, ‘for I command you in the names of the gods.’ ‘Do it,’ says the rich man, 
-‘and all this gold shall be yours.’ So tell me – who lives and who dies?”
+So why do their holders claim it's the future? Why do people believe that one token of outdated software is worth $46,000 now and how one day it will be worth $100K... or even $1M? 
 
 How could a cryptocurrency that was made in 2-hours as a meme hold a market cap greater than PNC Financial, Soft Bank, or Walmart?
 
