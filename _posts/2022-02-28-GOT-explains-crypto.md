@@ -19,7 +19,7 @@ reading. The one gnawing on my brain right now is the riddle that Varys poses to
 
 So why do their holders claim it's the future? Why do people believe that one token of outdated software is worth $46,000 now and how one day it will be worth $100K... or even $1M? 
 
-How could a cryptocurrency that was made in 2-hours as a meme hold a market cap greater than PNC Financial, Soft Bank, or Walmart?
+How could a cryptocurrency that was made in 2-hours as a meme ever held a market cap greater than PNC Financial, Soft Bank, or Walmart?
 
 From a slightly edited passage from a later Tyrion POV chapter, Varys presents an idea of why:
 
@@ -43,7 +43,7 @@ From a slightly edited passage from a later Tyrion POV chapter, Varys presents a
 >Tyrion cocked his head sideways. “Did you mean to answer your damned riddle, or only to make my headache worse?”
 >Varys smiled. “Here, then. **Power resides where men believe it resides**. No more and no less.”
 >“So power is a mummer’s trick?”
->
+
 >**“A shadow on the wall,”** Varys murmured, **“yet shadows can kill. And ofttimes a very small man can cast a very large shadow.”**
 
 
