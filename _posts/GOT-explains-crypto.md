@@ -1,9 +1,16 @@
+---
+layout: page
+title: "How 'Game of Thrones' Expalains the Crypto Phenomena"
+subtitle: "Thoughts on My Aussie Mountain Doodle"
+date:   2022-03-28 21:21:21 +0530
+categories: tech
 
+---
 
-With the disappointing last 4-seasons of HBO's Game of Thrones a suppressed and distant memory, 
+With the disappointing last 4-seasons of HBO's 'Game of Thrones' a suppressed and distant memory, 
 I have begun re-reading the series with untainted pleasure. Not only are the world-building and character 
 developments incredible, but throughout the rich text, there is wisdom that stews in my mind for days after 
-reading. My favourite might be the following riddle that Varys poses to Tyrion in A Clash of Kings.
+reading. The one circulating through my mind right now is the riddle that Varys poses to Tyrion in __A Clash of Kings__.
 
 >“In a room sit three great men, a king, a priest, and a rich man with his gold. Between them stands a sellsword,
 > a little man of common birth and no great mind. Each of the great ones bids him slay the other two. ‘Do it,’
