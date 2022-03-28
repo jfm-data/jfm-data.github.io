@@ -40,3 +40,5 @@ From a slightly edited passage from a later Tyrion POV chapter, Varys presents a
 >“So power is a mummer’s trick?”
 >
 >**“A shadow on the wall,”** Varys murmured, **“yet shadows can kill. And ofttimes a very small man can cast a very large shadow.”**
+
+
