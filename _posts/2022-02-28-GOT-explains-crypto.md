@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "How 'Game of Thrones' Expalains the Crypto Phenomena"
-subtitle: "Thoughts on My Aussie Mountain Doodle"
+subtitle: "Rationalizing Why Crypto is a multi-trillion dollar thing"
 date:   2022-03-28 21:21:21 +0530
 categories: tech
 
