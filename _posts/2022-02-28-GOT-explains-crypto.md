@@ -12,7 +12,7 @@ I have begun re-reading the series with untainted pleasure. Not only are the wor
 developments incredible, but throughout the rich text, <b>there is wisdom</b> that stews in my mind for days after 
 reading. The one gnawing on my brain right now is the riddle that Varys poses to Tyrion in __A Clash of Kings__...
 
-><p style="background-color:rgba(235, 235, 235, 0.7);font-size:20px; text-align: left;">“In a room sit three great men, a king, a priest, and a rich man with his gold. Between them stands a sellsword,
+><p style="background-color:rgba(235, 235, 235, 0.7);font-size:20px; text-align: left;"> “In a room sit three great men, a king, a priest, and a rich man with his gold. Between them stands a sellsword,
 > a little man of common birth and no great mind. Each of the great ones bids him slay the other two. ‘Do it,’
 >  says the king, ‘for I am your lawful ruler.’ ‘Do it,’ says the priest, ‘for I command you in the names of the gods.’
 >   ‘Do it,’ says the rich man, ‘and all this gold shall be yours.’ So tell me – who lives and who dies?”</p>
