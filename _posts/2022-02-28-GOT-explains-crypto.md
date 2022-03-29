@@ -10,7 +10,7 @@ categories: tech
 With the disappointing last 4-seasons of HBO's 'Game of Thrones' a suppressed and distant memory, 
 I have begun re-reading the series with untainted pleasure. Not only are the world-building and character 
 developments incredible, but throughout the rich text, <b>there is wisdom</b> that stews in my mind for days after 
-reading. The one gnawing on my brain right now is the riddle that Varys poses to Tyrion in __A Clash of Kings__...
+reading. The one gnawing on my brain right now is the riddle that Varys poses to Tyrion in <i>A Clash of Kings</i>...
 
 ><p style="background-color:rgba(235, 235, 235, 0.7);font-size:20px; text-align: left;"> “In a room sit three great men, a king, a priest, and a rich man with his gold. Between them stands a sellsword,
 > a little man of common birth and no great mind. Each of the great ones bids him slay the other two. ‘Do it,’
