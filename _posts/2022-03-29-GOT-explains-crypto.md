@@ -16,7 +16,7 @@ With the disappointing last 4-seasons of HBO's Game of Thrones a suppressed and 
 <blockquote style="background-color:rgba(235, 235, 235, 0.7); font-size:20px; text-align: left; padding:24px; letter-spacing: 0px;"> “In a room sit three great men, a king, a priest, and a rich man with his gold. Between them stands a sellsword,
 a little man of common birth and no great mind. Each of the great ones bids him slay the other two.<br> <i>‘Do it,’ 
 says the king, ‘for I am your lawful ruler.’<br> ‘Do it,’ says the priest, ‘for I command you in the names of the gods.’ 
-<br>‘Do it,’ says the rich man, ‘and all this gold shall be yours.’</i> <b><br>So tell me – who lives and who dies?”</b></p>
+<br>‘Do it,’ says the rich man, ‘and all this gold shall be yours.’</i> <b><br>So tell me – who lives and who dies?”</b></blockquote>
 
 Varys riddle is masking the real question of "what is power?" and who truly wields it? While I could dive deeper into the greater societal significance of such questions (and will in a future post), we can apply the same thought exercise can be to the crowded crypto market as it comes to ~~power~~ value. 
 
