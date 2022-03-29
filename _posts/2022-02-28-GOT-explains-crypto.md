@@ -12,7 +12,7 @@ I have begun re-reading the series with untainted pleasure. Not only are the wor
 developments incredible, but throughout the rich text, <b>there is wisdom</b> that stews in my mind for days after 
 reading. The one gnawing on my brain right now is the riddle that Varys poses to Tyrion in <i>A Clash of Kings</i>...
 
-<blockquote style="background-color:rgba(235, 235, 235, 0.7);font-size:20px; text-align: left; padding:24px;"> “In a room sit three great men, a king, a priest, and a rich man with his gold. Between them stands a sellsword,
+<blockquote style="background-color:rgba(235, 235, 235, 0.7); font-size:20px; text-align: left; padding:24px; letter-spacing: 0px;"> “In a room sit three great men, a king, a priest, and a rich man with his gold. Between them stands a sellsword,
 a little man of common birth and no great mind. Each of the great ones bids him slay the other two. ‘Do it,’
 says the king, ‘for I am your lawful ruler.’ ‘Do it,’ says the priest, ‘for I command you in the names of the gods.’
 ‘Do it,’ says the rich man, ‘and all this gold shall be yours.’ So tell me – who lives and who dies?”</blockquote>
@@ -23,7 +23,7 @@ How could a cryptocurrency that was made in 2-hours as a meme ever held a market
 
 From a slightly edited passage from a later Tyrion POV chapter, Varys presents an idea of why:
 
-<blockquote style="background-color:rgba(235, 235, 235, 0.7);font-size:20px; text-align: left; padding:24px;"> “Power is a curious thing, my lord. Perchance you have considered the riddle I posed you that day in the inn?”
+<blockquote style="background-color:rgba(235, 235, 235, 0.7); font-size:20px; text-align: left; padding:24px; letter-spacing: 0px;">  “Power is a curious thing, my lord. Perchance you have considered the riddle I posed you that day in the inn?”
 
 
 “It has crossed my mind a time or two,” Tyrion admitted. “The king, the priest, the rich man—who lives and who dies? Who will the swordsman obey? It’s a riddle without an answer, or rather, too many answers. All depends on the man with the sword.”
@@ -39,11 +39,11 @@ From a slightly edited passage from a later Tyrion POV chapter, Varys presents a
 
 “Then these other swordsmen have the true power. Or do they?” Varys smiled. “Some say knowledge is power. Some tell us that all power comes from the gods. Others say it derives from law."
 
-</blockquote>
->Tyrion cocked his head sideways. “Did you mean to answer your damned riddle, or only to make my headache worse?”
->Varys smiled. “Here, then. **Power resides where men believe it resides**. No more and no less.”
->“So power is a mummer’s trick?”
 
->**“A shadow on the wall,”** Varys murmured, **“yet shadows can kill. And ofttimes a very small man can cast a very large shadow.”**
+Tyrion cocked his head sideways. “Did you mean to answer your damned riddle, or only to make my headache worse?”
+Varys smiled. “Here, then. **Power resides where men believe it resides**. No more and no less.”
+“So power is a mummer’s trick?”
+
+**“A shadow on the wall,”** Varys murmured, **“yet shadows can kill. And ofttimes a very small man can cast a very large shadow.”**</blockquote>
 
 
