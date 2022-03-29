@@ -2,10 +2,14 @@
 layout: page
 title: "How 'Game of Thrones' Expalains the Crypto Phenomena"
 subtitle: "Rationalizing Why Crypto is a multi-trillion dollar thing"
-date:   2022-03-28 21:21:21 +0530
+date:   2022-03-29 21:21:21 +0530
 categories: tech
 
 ---
+
+<p align="center">
+  <img align="center" src="https://preview.redd.it/byag8z8jyyx21.jpg?auto=webp&s=81c6a847a5cc8e50995d048ff8aa837b40762b24" style="max-height: 90%; max-width: 90%;">
+</p> 
 
 With the disappointing last 4-seasons of HBO's 'Game of Thrones' a suppressed and distant memory, 
 I have begun re-reading the series with untainted pleasure. Not only are the world-building and character 
