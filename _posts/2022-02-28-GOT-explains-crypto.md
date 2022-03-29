@@ -12,10 +12,10 @@ I have begun re-reading the series with untainted pleasure. Not only are the wor
 developments incredible, but throughout the rich text, <b>there is wisdom</b> that stews in my mind for days after 
 reading. The one gnawing on my brain right now is the riddle that Varys poses to Tyrion in <i>A Clash of Kings</i>...
 
-<blockquote style="background-color:rgba(235, 235, 235, 0.7); font-size:20px; text-align: left; padding:24px; letter-spacing: 0px;"> “In a room sit three great men, a king, a priest, and a rich man with his gold. Between them stands a sellsword,
-a little man of common birth and no great mind. Each of the great ones bids him slay the other two. ‘Do it,’
-says the king, ‘for I am your lawful ruler.’ ‘Do it,’ says the priest, ‘for I command you in the names of the gods.’
-‘Do it,’ says the rich man, ‘and all this gold shall be yours.’ So tell me – who lives and who dies?”</blockquote>
+><blockquote style="background-color:rgba(235, 235, 235, 0.7); font-size:20px; text-align: left; padding:24px; letter-spacing: 0px;"> “In a room sit three great men, a >king, a priest, and a rich man with his gold. Between them stands a sellsword,
+>a little man of common birth and no great mind. Each of the great ones bids him slay the other two.<br> ‘Do it,’
+>says the king, ‘for I am your lawful ruler.’ <br> ‘Do it,’ says the priest, ‘for I command you in the names of the gods.’
+><br>‘Do it,’ says the rich man, ‘and all this gold shall be yours.’ <br>So tell me – who lives and who dies?”</blockquote>
 
 So why do their holders claim it's the future? Why do people believe that one token of outdated software is worth $46,000 now and how one day it will be worth $100K... or even $1M? 
 
