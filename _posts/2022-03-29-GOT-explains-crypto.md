@@ -13,16 +13,17 @@ categories: tech
 
 With the disappointing last 4-seasons of HBO's Game of Thrones a suppressed and distant memory, I have begun re-reading the series with untainted pleasure. Not only are the world-building and character developments incredible, but throughout the rich text, there is philosophy and wisdom that stews in my mind for days after reading. The one gnawing on my thoughts right now is the riddle that Varys posed to Tyrion in <i>A Clash of Kings</i>.
 
-><p style="background-color:rgba(235, 235, 235, 0.7); font-size:20px; text-align: left; padding:24px; letter-spacing: 0px;"> “In a room sit three great men, a >king, a priest, and a rich man with his gold. Between them stands a sellsword,
->a little man of common birth and no great mind. Each of the great ones bids him slay the other two.<br> <i>‘Do it,’
-  >says the king, ‘for I am your lawful ruler.’br> ‘Do it,’ says the priest, ‘for I command you in the names of the gods.’
-  ><br>‘Do it,’ says the rich man, ‘and all this gold shall be yours.’</i> <b><br>So tell me – who lives and who dies?”</b></p>
+<blockquote style="background-color:rgba(235, 235, 235, 0.7); font-size:20px; text-align: left; padding:24px; letter-spacing: 0px;"> “In a room sit three great men, a king, a priest, and a rich man with his gold. Between them stands a sellsword,
+a little man of common birth and no great mind. Each of the great ones bids him slay the other two.<br> <i>‘Do it,’ 
+says the king, ‘for I am your lawful ruler.’<br> ‘Do it,’ says the priest, ‘for I command you in the names of the gods.’ 
+<br>‘Do it,’ says the rich man, ‘and all this gold shall be yours.’</i> <b><br>So tell me – who lives and who dies?”</b></p>
 
-So why do their holders claim it's the future? Why do people believe that one token of outdated software is worth $46,000 now and how one day it will be worth $100K... or even $1M? 
+Varys riddle is masking the real question of "what is power?" and who truly wields it? While I could dive deeper into the greater societal significance of such questions (and will in a future post), we can apply the same thought exercise can be to the crowded crypto market as it comes to ~~power~~ value. 
 
-How could a cryptocurrency that was made in 2-hours as a meme ever held a market cap greater than PNC Financial, Soft Bank, or Walmart?
+With the increasing velocity at which new advanced blockchains are being developed, what makes a legacy crypto token like Bitcoin the most valuable? From a technical standpoint, Bitcoin is inefficient, costly, less secure, and less practical than the 20,000 thousand more advanced blockchains that used it as the development blueprint. 
 
-From a slightly edited passage from a later Tyrion POV chapter, Varys presents an idea of why:
+So why do their holders claim it's the future of money or gold? Why do people believe that one token of intangible outdated software is worth $46,000 now with the expectation of it being priced at $100K... or even a million dollars?
+
 
 <blockquote style="background-color:rgba(235, 235, 235, 0.7); font-size:20px; text-align: left; padding:24px; letter-spacing: 0px;">  “Power is a curious thing, my lord. Perchance you have considered the riddle I posed you that day in the inn?”
 
