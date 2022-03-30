@@ -43,7 +43,7 @@ Tyrion cocked his head sideways. “Did you mean to answer your damned riddle, o
 Varys smiled. “Here, then. **Power resides where men believe it resides**. No more and no less.”
 “So power is a mummer’s trick?”
 <br>
-**“A shadow on the wall,”** Varys murmured, **“yet shadows can kill. And ofttimes a very small man can cast a very large shadow.”**</blockquote>
+`“A shadow on the wall,”` Varys murmured, `“yet shadows can kill. And ofttimes a very small man can cast a very large shadow.”`</blockquote>
 
 What Varys artfully describes is that power is more perception than reality. We accept and submit to it because we've been convinced that it exists. And this perception is the essence of the value of any crypto. If not, then on what basis can we consider one token of intangible outdated software worth $46,000? 
 
