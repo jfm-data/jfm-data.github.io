@@ -8,7 +8,7 @@ categories: tech
 ---
 
 <p align="center">
-  <img align="center" src="https://preview.redd.it/byag8z8jyyx21.jpg?auto=webp&s=81c6a847a5cc8e50995d048ff8aa837b40762b24" style="max-height: 90%; max-width: 90%;">
+  <img align="center" src="https://preview.redd.it/byag8z8jyyx21.jpg?auto=webp&s=81c6a847a5cc8e50995d048ff8aa837b40762b24" style="max-height: 100%; max-width: 100%;">
 </p> 
 
 <br>
