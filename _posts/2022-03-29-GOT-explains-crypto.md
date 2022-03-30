@@ -40,10 +40,10 @@ From a slightly edited passage from a later Tyrion POV chapter, Varys answers th
 
 
 Tyrion cocked his head sideways. “Did you mean to answer your damned riddle, or only to make my headache worse?”
-Varys smiled. “Here, then. **Power resides where men believe it resides**. No more and no less.”
+Varys smiled. “Here, then. <code class="language-plaintext highlighter-rouge">Power resides where men believe it resides.</code> No more and no less.”
 “So power is a mummer’s trick?”
 <br>
-`“A shadow on the wall,”` Varys murmured, `“yet shadows can kill. And ofttimes a very small man can cast a very large shadow.”`</blockquote>
+<code class="language-plaintext highlighter-rouge">“A shadow on the wall,” Varys murmured, “yet shadows can kill. And ofttimes a very small man can cast a very large shadow.”</code></blockquote>
 
 What Varys artfully describes is that power is more perception than reality. We accept and submit to it because we've been convinced that it exists. And this perception is the essence of the value of any crypto. If not, then on what basis can we consider one token of intangible outdated software worth $46,000? 
 
@@ -55,4 +55,4 @@ Yet the perception exists that what was 3,000 lines of code written an epoch ago
 
 As Varys says, a very small man can cast a very large shadow. Now there seems to be no shortage of men or fiat currency helping to make that shadow for crypto as big as possible. There are billions of advertising dollars being spent from the fee-sucking and regulated crypto exchanges to promote the "asset class" more than their actual services.
 
-The amount of money they seem to have at their disposal for telling you that you should be investing may be a signal to stay out. But the undoubtedly low point is an A-list Hollywood actor shilling by associating "investing" in an unproductive asset with only theoretical-practical value, with the world's greatest explorers who've gone where no man has gone before. But he's entirely wrong. Buying into the perception of power/value is a place where every person has been in the history of humanity.
+The amount of money they seem to have at their disposal to tell you that you should be investing may be a signal to stay out. But the undoubtedly low point is an A-list Hollywood actor shilling by associating "investing" in an unproductive asset with only theoretical-practical value, with the world's greatest explorers who've gone where no man has gone before. But he's entirely wrong. Buying into the perception of power/value is a place where every person has been in the history of humanity.
