@@ -14,10 +14,9 @@ categories: tech
 <br>
 With the disappointing final four seasons of HBO's Game of Thrones a suppressed and distant memory, I have begun re-reading with untainted pleasure. The series is renowned for its world-building, character development, and politics -- but what might be underappreciated is the subtle philosophy and wisdom embedded in the rich dialogue. Sometimes these conversations stew in my mind for days. The one gnawing on my thoughts right now is the riddle that Varys posed to Tyrion in <i>A Clash of Kings</i>.
 
-><blockquote style="background-color:rgba(235, 235, 235, 0.7); font-size:20px; text-align: left; padding:24px; letter-spacing: 0px;"> “In a room sit three great men, a king, a priest, and a rich man with his gold. Between them stands a sellsword -- a little man of common birth and no great mind. Each of the great ones bids him slay the other two.<br> <i>‘Do it,’ 
+<blockquote style="background-color:rgba(235, 235, 235, 0.7); font-size:20px; text-align: left; padding:24px; letter-spacing: 0px;"> “In a room sit three great men, a king, a priest, and a rich man with his gold. Between them stands a sellsword -- a little man of common birth and no great mind. Each of the great ones bids him slay the other two.<br> <i>‘Do it,’ 
 says the king, ‘for I am your lawful ruler.’<br> ‘Do it,’ says the priest, ‘for I command you in the names of the gods.’ 
 <br>‘Do it,’ says the rich man, ‘and all this gold shall be yours.’</i> <b><br>So tell me – who lives and who dies?”</b></blockquote>
-
 Varys riddle is of course a corollary for "what is power?" and who truly wields it? While I could dive deeper into the contemporary societal significance of such questions (and will in a future post), we can apply the same thought exercise to the psychology that drives pricing in the financial markets. More specifically for this post, the crowded crypto market as it comes to ~~power~~ value. 
 
 With the increasing velocity at which new advanced blockchains are being developed, what makes a legacy crypto token like Bitcoin the most valuable? From a technical standpoint, Bitcoin is inefficient, costly, less secure, and less practical than the 20,000 thousand more advanced blockchains that used it as the development blueprint. 
