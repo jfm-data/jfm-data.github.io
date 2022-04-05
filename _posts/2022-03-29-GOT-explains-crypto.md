@@ -31,15 +31,15 @@ From a slightly edited passage from a later Tyrion POV chapter, Varys answers th
 “It has crossed my mind a time or two,” Tyrion admitted. “The king, the priest, the rich man—who lives and who dies? Who will the swordsman obey? It’s a riddle without an answer, or rather, too many answers. All depends on the man with the sword.”
 <br>
 <b>“And yet he is no one,”</b> Varys said. “He has neither crown nor gold nor favour of the gods, only a piece of pointed steel.”
+ <br> 
 “That piece of steel is the power of life and death.”
+  <br>
 “Just so… yet if it is the swordsmen who rule us in truth, why do we pretend our kings hold the power? Why should a strong man with a sword ever obey a child king like Joffrey, or a wine-sodden oaf like his father?”
+  <br>
 “Because these child kings and drunken oafs can call other strong men, with other swords.”
-
 <br>
-“Then these other swordsmen have the true power. Or do they?” Varys smiled. “Some say knowledge is power. Some tell us that all power comes from the gods. Others say it derives from law."
-
-
-Tyrion cocked his head sideways. “Did you mean to answer your damned riddle, or only to make my headache worse?”
+“Then these other swordsmen have the true power. Or do they?” 
+<br>
 Varys smiled. “Here, then. <code class="language-plaintext highlighter-rouge">Power resides where men believe it resides.</code> No more and no less.”
 “So power is a mummer’s trick?”
 <br>
