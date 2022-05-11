@@ -7,7 +7,7 @@ categories: politics
 
 ---
 
-With the Omicron variant causing COVID cases to surge almost everywhere, there is a lot of open talk on how society may, or perhaps should, start living with COVID rather than with the promoting fear and more interventionist restrictions. Yet, with every open question there is a familiar refrain *"but, I am not a doctor"*. It is irritating to hear that the barrier of being an MD has become such a convenient way to censor any constructive conversation.
+With the Omicron variant causing COVID cases to surge almost everywhere, there is a lot of open talk on how society may, or perhaps should, start living with COVID. Yet, with every open question seems to be followed with familiar refrain *"but, I am not a doctor"*. Yes, Doctors are bright but it has become an absurd barrier of to offer any constructive conversation.
 
 
 But I am writing to say it past time we end this nonsense on COVID policy discussion. If someone were to publicly suggest something the veers one degree off the narrative like Bill Simmons did this week, they will undermine their own valid observations with the declaration of not being an expert. It is disturbing to exclusively allow people who went through gatekeepers to be considered qualified to speak on issues. It is such a bad idea that it is something both Karl Marx and Adam Smith can agree on. **Limiting thoughts to only certain people is not only a classist and monopolist behaviour, but it is a form of artificial restriction to a means of production**.
