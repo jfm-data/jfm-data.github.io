@@ -16,8 +16,6 @@ By distilling the projects in blog would convert what would be a Kaggle submissi
 
 Another reason I am here is that I enjoy writing. I used to hate it when writing long investment reports for a boss who was only interested in a presentable memo for executives. This manager  -- who was a cross between Dwight Schrute and Mr. Smithers -- was critical of writing style as it had to too much 'presonality'. He wanted every investment memo to be alike that you could not tell that memos had different authors. This bland style of writing was nauseating to produce. However, my writing spirit was rekindled when my frist paper in my Data Science for Business comms class received excellent feedback from my professor. He taught the power of story-telling in business communication and impressed that on student's writing. He always commented on the character of my writing which he rewarded generously. My classmates also praised my writing on group projects (even though I felt lost on technical side early-on) and I ended up writing and editing most group papers -- and actually enjoing it.
 
-I will often go outside of data-specific posts as I have many interests and opinions to share. My long-term goal would be write a thesis driven book -- or even perhaps a fiction novel(?). Every blog post that I write here will help me improve my writing and get closer to possibility of producing something worth reading :)
-
 Enjoy
 
 JM
